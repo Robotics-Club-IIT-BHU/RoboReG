@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{{ site.name }}: {{ page.title }}</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet"
+              href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+              integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+              crossorigin="anonymous">
+        <link rel="stylesheet"
+              href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="{{ site.base }}/css/group.css">
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/site.webmanifest">
+        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="theme-color" content="#ffffff">
+    </head>
+    <body>
+        <div class="container">
+            <!-- This is a bit nasty, but it basically says be a column first, and on larger screens be a spaced out row -->
+            <div class="header d-flex
+                        flex-column
+                        flex-md-row justify-content-md-between align-items-md-end">
+                <a href="{{ site.base }}/" class="">
+                    <img src="{{ site.base }}/img/logo.png"
+                         srcset="{{ site.base }}/img/logo@2x.png 2x"
+                         alt="REx Lab" id="logo">
+                </a>
+                <ul class="nav nav-pills justify-content-center">
+
+                    {% assign shorturl = page.url | replace:'.html','' | replace:'index','' %}
+                    {% for item in site.navigation %}
+
+                        {% assign itemshorturl = item.link | replace:'.html','' %}
+
+                        {% assign maybe-active = '' %}
+                        {% if item.title == 'Research' and page.layout == 'project' %}
+                            {% assign maybe-active = 'active' %}
+                        {% endif %}
+                        {% if itemshorturl == shorturl or is-research %}
+                            {% assign maybe-active = 'active' %}
+                        {% endif %}
+
+                        <li class="nav-item">
+                            <a class="nav-link {{ maybe-active }}"
+                               href="{{ site.base }}{{ item.link }}">
+                                {{ item.title }}
+                            </a>
+                        </li>
+
+                    {% endfor %}
+
+                </ul>
+            </div>
+
+            {% if page.image %}
+                <img src="{{ page.image }}"
+                     alt="{{ page.title }}"
+                     style="max-width: 400px"
+                     class="img-fluid mx-auto d-block mb-4"/>
+            {% endif %}
+
+            {% if page.notitle != true %}
+                <h1>{{ page.title }}</h1>
+            {% endif %}
+
+            {{ content }}
+
+            <div class="footer">
+                <p>
+                    A member of the <a href="https://frc.ri.cmu.edu/">Field Robotics Center</a>
+                    in the <a href="https://www.ri.cmu.edu/">Robotics Institute</a>
+                    at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>
+                </p>
+            </div>
+
+        </div> <!-- /container -->
+
+        <!-- Support retina images. -->
+        <script type="text/javascript"
+                src="{{ site.base }}/js/srcset-polyfill.js"></script>
+    </body>
+</html>

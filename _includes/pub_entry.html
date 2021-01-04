@@ -1,0 +1,68 @@
+{% assign pub = include.pub %}
+
+{% if pub.pdf %}
+    {% if pub.pdf contains "http" %}
+        {% assign url = pub.pdf %}
+    {% else %}
+        {% assign url = "/papers/" | append: pub.pdf %}
+    {% endif %}
+    {% capture title %}
+        <span class="pubtitle">
+            {% if url contains "pdf" %}
+                <img src={{ "img/pdficon_small.png" | relative_url }} width="20" height="20" alt="PDF" />
+            {% endif %}
+            <a href="{{ url | escape }}"> {{ pub.title }} </a>
+        </span>
+    {% endcapture %}
+{% else %}
+    {% assign title = pub.title %}
+{% endif %}
+
+{% assign year = pub.date | date: "%Y" %}
+{% assign year = year | to_integer %}
+{% assign month = pub.date | date: "%B" %}
+{% capture date %}
+    <span class="date">
+        {% if year != include.prev_year %}
+            <big><strong>{{ year }}</strong></big><br />
+        {% else %}
+            <br />
+        {% endif %}
+        {{ month }}
+    </span>
+{% endcapture %}
+
+{% capture authors %}
+    {% include authors.html authors=pub.authors %}
+{% endcapture %}
+
+<tr>
+    <td>
+        {{ date }}
+    </td>
+    <td class="publication">
+        <span class="pubtitle">
+            {{ title }}
+        </span><br />
+        <span class="authors">
+            {{ authors }}
+        </span><br />
+        <span class="publisher">
+            {% if pub.abbrv %}
+                {{ pub.publisher | strip }} ({{ pub.abbrv | strip }}).
+            {% else %}
+                {{ pub.publisher | strip }}
+            {% endif %}
+        </span>
+        {% if pub.pub-type == "conference" and pub.venue %}
+            <span class="venue">
+                {{ pub.venue | strip }}.
+            </span>
+        {% endif %}
+        {% if pub.status %}
+            <span class="status">
+                ({{ pub.status | strip }})
+            </span>
+        {% endif %}
+    </td>
+</tr>

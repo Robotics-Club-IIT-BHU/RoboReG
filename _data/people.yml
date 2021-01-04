@@ -1,0 +1,153 @@
+zac:
+    display_name: "Zac Manchester"
+    webpage: "http://zacmanchester.com"
+    github: zacmanchester
+    role: faculty
+    image: /img/people/zac.jpg
+    bio: Assistant Professor
+
+taylor:
+    display_name: "Taylor Howell"
+    webpage: "https://thowell.github.io"
+    github: thowell
+    role: phd
+    image: /img/people/taylor.jpg
+    bio: Robust feedback motion planning and optimization through contact
+
+brian:
+    display_name: "Brian Jackson"
+    webpage: "https://bjack205.github.io"
+    github: bjack205
+    role: phd
+    image: /img/people/brian.jpg
+    bio: Real-time motion planning
+
+max:
+    display_name: "Max Holliday"
+    webpage: "https://github.com/maholli"
+    github: maholli
+    role: phd
+    image: /img/people/max.jpg
+    bio: Space-resilient hardware
+
+simon:
+    display_name: "Simon Le Cleac'h"
+    webpage: "https://simon-lc.github.io/"
+    github: simon-lc
+    role: phd
+    image: /img/people/simon.jpg
+    bio: Optimizing game-theoretic interactions
+
+andrew:
+    display_name: "Andrew Gatherer"
+    webpage: "https://www.linkedin.com/in/andrew-gatherer-72211862/"
+    github: GathererA
+    role: alum
+    image: /img/people/andrew.jpg
+    bio: Improving small-satellites
+
+jan:
+    display_name: "Jan Bruedigam"
+    webpage: "https://www.ei.tum.de/en/itr/bruedigam/"
+    github: janbruedigam
+    role: alum
+    image: /img/people/jan.jpg
+    bio: Modernizing physics engines
+
+laura:
+    display_name: "Laura Lee"
+    webpage: "https://www.linkedin.com/in/lauraleeane/"
+    role: alum
+    image: /img/people/laura.jpg
+    bio: Master's Student
+
+nathan:
+    display_name: "Nathan Kau"
+    webpage: "https://nathankau.com/"
+    role: ugrad
+    image: /img/people/nathankau.jpg
+    bio: Undergraduate Student
+
+tarun:
+    display_name: "Tarun Punnoose"
+    webpage: "https://punnoo.se/"
+    role: ugrad
+    image: /img/people/tarun.jpg
+    bio: Undergraduate Student
+
+aaron:
+    display_name: "Aaron Schultz"
+    webpage: "https://www.linkedin.com/in/aaron-s-a4aa2685/"
+    role: ugrad
+    image: /img/people/aaron.jpg
+    bio: Undergraduate Student
+
+remy:
+    display_name: "Remy Derollez"
+    webpage: "https://www.linkedin.com/in/derollez-remy/"
+    github: Derollez
+    role: alum
+    image: /img/people/remy.jpg
+    bio: Robust Motion Planning and Optimization for Space
+
+jared:
+    display_name: "Jared Blanchard"
+    webpage: "https://jaredblanchard.com"
+    github: jared711
+    role: masters
+    image: /img/people/jared.jpg
+    bio: Optimizing Spacecraft Trajectories
+
+kevin:
+    display_name: "Kevin Tracy"
+    webpage: "https://www.linkedin.com/in/kevin-tracy/"
+    github: kevintracy7
+    role: phd
+    image: /img/people/kevin.jpg
+    bio: Spacecraft dynamics
+
+# grad-a:
+#     display_name: "Grad A"
+#     role: grad
+
+# grad-b:
+#     display_name: "Graduate Student B With Long Name"
+#     role: grad
+
+# alum-a:
+#     display_name: "Alum A"
+#     role: alum
+#     bio: "Ph.D., 2013. Now at Microsoft Research."
+
+# alum-b:
+#     display_name: "Alum B With Way Longer Name"
+#     role: alum
+
+# alum-c:
+#     display_name: "Alum C"
+#     role: alum
+#     webpage: "https://www.google.com"
+
+# collab-a:
+#     display_name: "Collaborator A"
+#     role: collab
+
+# collab-b:
+#     display_name: "Collaborator B With Long Name"
+#     role: collab
+
+# ugrad-a:
+#     display_name: "Ugrad A"
+#     role: ugrad
+
+# ugrad-b:
+#     display_name: "Ugrad Student B With Long Name"
+#     role: ugrad
+
+# ugrad-alum-a:
+#     display_name: "Past Ugrad A"
+#     role: ugrad-alum
+
+# ugrad-alum-b:
+#     display_name: "Past Ugrad Student B With Long Name"
+#     role: ugrad-alum
