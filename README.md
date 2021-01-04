@@ -9,14 +9,6 @@ This is a [Jekyll][]-based Web site intended for research groups. Your group sho
 
 This project originated at the University of Washington.  You can see the machinery working live at [our site][sampa].
 
-<<<<<<< Updated upstream
-1. [erc iitb](https://erc.tech-iitb.org/#projects)
-2. [ib labs vnit](https://www.ivlabs.in/)
-3. [swarm iitkgp](https://swarm-iitkgp.github.io/)
-
-## GitHub Themes:
-[Jekyll Templates](https://github.com/pages-themes)
-=======
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License][license].
 
 [sampa]: http://sampa.cs.washington.edu/
@@ -131,4 +123,3 @@ To upload a new version of the site via rsync over ssh, type `make deploy`. A we
 
 [Jekyll]: http://jekyllrb.com/
 [bibble]: https://github.com/sampsyo/bibble/
->>>>>>> Stashed changes
