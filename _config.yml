@@ -14,16 +14,16 @@ permalink: /blog/:year/:month/:day/:title.html
 
 # Sections on the "people" page.
 roles:
-  - key: faculty
-    name: Faculty
+  - key: members
+    name: Mentors
   # - key: staff
   #   name: Staff
   # - key: postdoc
   #   name: Researchers
-  - key: phd 
-    name: PhD Students
-  - key: masters
-    name: Masters Students
+  - key: members1
+    name: Members
+  - key: members2
+    name: Members
   - key: ugrad
     name: Undergraduate Students
   - key: ugrad-alum
@@ -49,12 +49,8 @@ navigation:
     link: /people.html
   - title: Research
     link: /research.html
-  - title: Publications
-    link: /publications.html
   - title: Code
     link: /code.html
-  - title: Calendar
-    link: /calendar.html
   - title: Joining
     link: /join.html
 # theme: jekyll-theme-cayman

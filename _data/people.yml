@@ -1,110 +1,141 @@
 zac:
-    display_name: "Zac Manchester"
-    webpage: "http://zacmanchester.com"
-    github: zacmanchester
-    role: faculty
-    image: /img/people/zac.jpg
-    bio: Assistant Professor
+    display_name: "Aditya Kumar"
+    webpage: "https://arch-raven.github.io"
+    github: "https://github.com/arch-raven"
+    linkedin: "https://www.linkedin.com/in/adityakumar19/"
+    role: members
+    image: /img/people/aditya.jpg
+    bio: Deep Learning
 
 taylor:
-    display_name: "Taylor Howell"
-    webpage: "https://thowell.github.io"
-    github: thowell
-    role: phd
-    image: /img/people/taylor.jpg
-    bio: Robust feedback motion planning and optimization through contact
-
+    display_name: "Ajasra Gupta"
+    webpage: "https://github.com/Ajasra22"
+    github: "https://github.com/Ajasra22"
+    linkedin: "https://www.linkedin.com/in/ajasra-gupta-a61663191"
+    role: members
+    image: /img/people/ajasra.jpg
+    bio: Deep Learning, Reinforcement Learning, Path Planning
+    
 brian:
-    display_name: "Brian Jackson"
-    webpage: "https://bjack205.github.io"
-    github: bjack205
-    role: phd
-    image: /img/people/brian.jpg
-    bio: Real-time motion planning
+    display_name: "Akshat Sood"
+    github: "https://github.com/akshatsood2249"
+    webpage: "https://github.com/akshatsood2249"
+    linkedin: "https://www.linkedin.com/in/akshatsood2249"
+    role: members
+    image: /img/people/akshat.png
+    bio: Reinforcement Learning , Robot Perception and Planning
 
 max:
-    display_name: "Max Holliday"
-    webpage: "https://github.com/maholli"
-    github: maholli
-    role: phd
-    image: /img/people/max.jpg
-    bio: Space-resilient hardware
+    display_name: "Aman Mishra"
+    webpage: "https://github.com/Amshra267"
+    linkedin: "https://www.linkedin.com/in/aman-mishra-a0b7881aa"
+    github: "https://github.com/Amshra267"
+    role: members
+    image: /img/people/aman.jpg
+    bio: Deep learning, Robot Perception and planning
 
 simon:
-    display_name: "Simon Le Cleac'h"
-    webpage: "https://simon-lc.github.io/"
-    github: simon-lc
-    role: phd
-    image: /img/people/simon.jpg
-    bio: Optimizing game-theoretic interactions
+    display_name: "Amarjeet keshri"
+    webpage: "https://github.com/amarkeshri28"
+    github: "https://github.com/amarkeshri28"
+    linkedin: "https://www.linkedin.com/in/amarjeet-keshri-3712b01b2"
+    role: members
+    image: /img/people/amarjeet.jpg
+    bio: Robot control, Robot hardware design and devlopment, Deep learning
 
 andrew:
-    display_name: "Andrew Gatherer"
-    webpage: "https://www.linkedin.com/in/andrew-gatherer-72211862/"
-    github: GathererA
-    role: alum
-    image: /img/people/andrew.jpg
-    bio: Improving small-satellites
+    display_name: "Ananya Singh"
+    webpage: "https://github.com/ananya130"
+    github: "https://github.com/ananya130"
+    role: members
+    image: /img/people/ananya.jpg
+    bio: Deep Learning,  Front-end web development, Robot Perception and planning
 
 jan:
-    display_name: "Jan Bruedigam"
-    webpage: "https://www.ei.tum.de/en/itr/bruedigam/"
-    github: janbruedigam
-    role: alum
-    image: /img/people/jan.jpg
-    bio: Modernizing physics engines
+    display_name: "Antara Banerjee"
+    webpage: "https://github.com/AntaraB1005"
+    github: "https://github.com/AntaraB1005"
+    linkedin: "https://www.linkedin.com/in/antara-banerjee-6b79b61aa/"
+    role: members
+    image: /img/people/antara.jpg
+    bio: Computer vision, Robotic Vision System
 
 laura:
-    display_name: "Laura Lee"
+    display_name: "Jatin Eaga"
     webpage: "https://www.linkedin.com/in/lauraleeane/"
-    role: alum
-    image: /img/people/laura.jpg
-    bio: Master's Student
+    role: members
+    image: /img/people/jatin.jpg
+    bio: Robots mobility and locomotive design and it's development, deep learning
 
 nathan:
-    display_name: "Nathan Kau"
-    webpage: "https://nathankau.com/"
-    role: ugrad
-    image: /img/people/nathankau.jpg
-    bio: Undergraduate Student
+    display_name: "Payal Pote"
+    webpage: "https://github.com/payal116"
+    github: "https://github.com/payal116"
+    linkedin: "https://www.linkedin.com/in/payal-pote-94430919a"
+    role: members
+    image: /img/people/payal.jpg
+    bio: Robot perception and planning, Deep Learning
 
 tarun:
-    display_name: "Tarun Punnoose"
-    webpage: "https://punnoo.se/"
-    role: ugrad
-    image: /img/people/tarun.jpg
-    bio: Undergraduate Student
+    display_name: "Prince Kumar Gond"
+    webpage: "https://github.com/prince-0911"
+    github: "https://github.com/prince-0911"
+    linkedin: "https://www.linkedin.com/in/prince-kumar-gond-3b22b81b2"
+    role: members
+    image: /img/people/prince.jpg
+    bio: Deep Learning ,Robot Control, Robot hardware design and development.
 
 aaron:
-    display_name: "Aaron Schultz"
-    webpage: "https://www.linkedin.com/in/aaron-s-a4aa2685/"
-    role: ugrad
-    image: /img/people/aaron.jpg
-    bio: Undergraduate Student
+    display_name: "R Tharun Gowda"
+    webpage: "https://github.com/rtharungowda"
+    github: "https://github.com/rtharungowda"
+    role: members
+    image: /img/people/tharun.jpg
+    bio: Deep Learning (Computer Vision), Reinforcement Learning
 
 remy:
-    display_name: "Remy Derollez"
-    webpage: "https://www.linkedin.com/in/derollez-remy/"
-    github: Derollez
-    role: alum
-    image: /img/people/remy.jpg
-    bio: Robust Motion Planning and Optimization for Space
+    display_name: "Somnath Sendhil Kumar"
+    webpage: "https://github.com/hex-plex"
+    github: "https://github.com/hex-plex"
+    linkedin: "https://www.linkedin.com/in/somnathsenku/"
+    role: members
+    image: /img/people/somnath.jpg
+    bio: Reinforcement Learning, Digital Electronics, Computer Vision
 
 jared:
-    display_name: "Jared Blanchard"
+    display_name: "Surabhit Gupta"
     webpage: "https://jaredblanchard.com"
     github: jared711
-    role: masters
-    image: /img/people/jared.jpg
-    bio: Optimizing Spacecraft Trajectories
+    role: members
+    image: /img/people/surabhit.jpg
+    bio: Hardware Development and control. 
 
 kevin:
-    display_name: "Kevin Tracy"
-    webpage: "https://www.linkedin.com/in/kevin-tracy/"
-    github: kevintracy7
-    role: phd
-    image: /img/people/kevin.jpg
-    bio: Spacecraft dynamics
+    display_name: "Vishwas Chepuri"
+    webpage: "https://github.com/vstark21"
+    github: "https://github.com/vstark21"
+    linkedin: "https://www.linkedin.com/in/vishwas-chepuri/"
+    role: members
+    image: /img/people/vishwas.jpg
+    bio: Deep Learning, Reinforcement Learning, Computer Vision
+
+yash:
+    display_name: "Yash Sahijwani"
+    webpage: "https://terabyte17.github.io/"
+    github: "https://github.com/Terabyte17"
+    linkedin: "https://www.linkedin.com/in/yash-sahijwani/"
+    role: members
+    image: /img/people/yash.jpg
+    bio: Vision-based robotics, Deep Learning and Reinforcement Learning
+
+terry:
+    display_name: "Yatharth Bhargava"
+    webpage: "https://github.com/Bellicose-YB"
+    github: "https://github.com/Bellicose-YB"
+    linkedin: "https://www.linkedin.com/in/yatharth-bhargava-577a41202/"
+    role: members
+    image: /img/people/yatharth.jpg
+    bio: Deep Learning, Robot control, Robot perception and planning
 
 # grad-a:
 #     display_name: "Grad A"
