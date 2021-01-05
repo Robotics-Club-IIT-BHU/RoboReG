@@ -128,7 +128,7 @@ yash:
     image: /img/people/yash.jpg
     bio: Vision-based robotics, Deep Learning and Reinforcement Learning
 
-terry:
+yb:
     display_name: "Yatharth Bhargava"
     webpage: "https://github.com/Bellicose-YB"
     github: "https://github.com/Bellicose-YB"
@@ -136,6 +136,15 @@ terry:
     role: members
     image: /img/people/yatharth.jpg
     bio: Deep Learning, Robot control, Robot perception and planning
+
+terry:
+    display_name: "S Niranth Sai"
+    webpage: "https://github.com/NiranthS"
+    github: "https://github.com/NiranthS"
+    linkedin: "www.linkedin.com/in/niranth-sai-35386b179/"
+    role: mentors
+    image: /img/people/niranth_bhaiya.jpg
+    bio: Robot perception, HRI, Deep Learning and Reinforcement Learning
 
 # grad-a:
 #     display_name: "Grad A"
