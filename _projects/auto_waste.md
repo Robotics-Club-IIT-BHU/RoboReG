@@ -6,6 +6,9 @@ description: |
 
 people:
   - antarabanerjee
+  - atulkumar
+  - lokeshkrishna
+  - niranthsai
   
 layout: project
 image: "/img/CR3BP.jpg"

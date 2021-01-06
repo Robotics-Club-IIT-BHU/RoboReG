@@ -6,8 +6,11 @@ description: |
 
 people:
   - ajasragupta
+  - vikhyathvenkatraman
   - amarjeetkeshri
   - princegond
+  - lokeshkrishna
+  - niranthsai
 
 layout: project
 image: "/img/dpo/rocket_landing_dpo.gif"

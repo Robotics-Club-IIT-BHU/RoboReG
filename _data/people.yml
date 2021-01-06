@@ -3,7 +3,7 @@ adityakumar:
     webpage: "https://arch-raven.github.io"
     github: "https://github.com/arch-raven"
     linkedin: "https://www.linkedin.com/in/adityakumar19/"
-    role: members2
+    role: members
     image: /img/people/aditya.jpg
     bio: Deep Learning
 
@@ -12,7 +12,7 @@ ajasragupta:
     webpage: "https://github.com/Ajasra22"
     github: "https://github.com/Ajasra22"
     linkedin: "https://www.linkedin.com/in/ajasra-gupta-a61663191"
-    role: members2
+    role: members
     image: /img/people/ajasra.jpg
     bio: Deep Learning, Reinforcement Learning, Path Planning
     
@@ -21,7 +21,7 @@ akshatsood:
     github: "https://github.com/akshatsood2249"
     webpage: "https://github.com/akshatsood2249"
     linkedin: "https://www.linkedin.com/in/akshatsood2249"
-    role: members2
+    role: members
     image: /img/people/akshat.png
     bio: Reinforcement Learning , Robot Perception and Planning
 
@@ -30,7 +30,7 @@ amanmishra:
     webpage: "https://github.com/Amshra267"
     linkedin: "https://www.linkedin.com/in/aman-mishra-a0b7881aa"
     github: "https://github.com/Amshra267"
-    role: members2
+    role: members
     image: /img/people/aman.jpg
     bio: Deep learning, Robot Perception and planning
 
@@ -39,7 +39,7 @@ amarjeetkeshri:
     webpage: "https://github.com/amarkeshri28"
     github: "https://github.com/amarkeshri28"
     linkedin: "https://www.linkedin.com/in/amarjeet-keshri-3712b01b2"
-    role: members2
+    role: members
     image: /img/people/amarjeet.jpg
     bio: Robot control, Robot hardware design and devlopment, Deep learning
 
@@ -47,7 +47,7 @@ ananyasingh:
     display_name: "Ananya Singh"
     webpage: "https://github.com/ananya130"
     github: "https://github.com/ananya130"
-    role: members2
+    role: members
     image: /img/people/ananya.jpg
     bio: Deep Learning,  Front-end web development, Robot Perception and planning
 
@@ -56,9 +56,18 @@ antarabanerjee:
     webpage: "https://github.com/AntaraB1005"
     github: "https://github.com/AntaraB1005"
     linkedin: "https://www.linkedin.com/in/antara-banerjee-6b79b61aa/"
-    role: members2
+    role: members
     image: /img/people/antara.jpg
     bio: Computer vision, Robotic Vision System
+
+atulkumar:
+    display_name: "Atul Kumar"
+    webpage: "https://github.com/AtuL-KumaR-00"
+    github: "https://github.com/AtuL-KumaR-00"
+    linkedin: "https://www.linkedin.com/in/atul-kumar-6b22751b4/"
+    role: members
+    image: /img/people/atul.jpg
+    bio: Deep learning, Robot hardware design
 
 ayushshaw:
     display_name: "Ayush Kumar Shaw"
@@ -173,8 +182,17 @@ niranthsai:
     github: "https://github.com/NiranthS"
     linkedin: "https://www.linkedin.com/in/niranth-sai-35386b179/"
     role: mentors
-    image: /img/people/niranth_bhaiya.jpg
+    image: /img/people/niranth.jpg
     bio: Robot perception, HRI, Deep Learning and Reinforcement Learning
+
+lokeshkrishna:
+    display_name: "Lokesh Krishna"
+    webpage: "https://github.com/lok-i"
+    github: "https://github.com/lok-i"
+    linkedin: "https://www.linkedin.com/in/lokesh-krishna-92911719b/"
+    role: mentors
+    image: /img/people/lokesh.jpg
+    bio: Optimal Control, Robot Learning, Legged Robotic Systems
 
 # grad-a:
 #     display_name: "Grad A"

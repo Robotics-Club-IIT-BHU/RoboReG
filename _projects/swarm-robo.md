@@ -7,6 +7,9 @@ description: |
 people:
   - somnathsendhil
   - surabhitgupta
+  - tharungowda
+  - lokeshkrishna
+  - niranthsai
 
 layout: project
 image: "/img/team_lift.jpg"

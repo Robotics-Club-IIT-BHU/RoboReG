@@ -10,6 +10,8 @@ people:
   - amanmishra
   - akshatsood
   - adityakumar
+  - lokeshkrishna
+  - niranthsai
 
 layout: project
 image: "/img/kicksat_logo.png"

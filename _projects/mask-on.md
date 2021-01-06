@@ -8,6 +8,8 @@ people:
   - jatineaga
   - payalpote
   - ananyasingh
+  - lokeshkrishna
+  - niranthsai
 
 layout: project
 image: "/img/rendezvous.png"
