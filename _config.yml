@@ -1,4 +1,4 @@
-name: REx Lab
+name: RoboReG
 url: https://roboticexplorationlab.github.io
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
@@ -22,6 +22,8 @@ roles:
   #   name: Researchers
   - key: mentors
     name: Mentors
+  - key: members2
+    name: Members
 
 
 # Number of news stories on the front page.
