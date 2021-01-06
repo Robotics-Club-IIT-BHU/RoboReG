@@ -1,0 +1,3 @@
+[console_scripts]
+bibble = bibble.main:main
+

@@ -34,9 +34,14 @@ there by default by Bootstrap columns.
         </div>
         <div class="col pl-0">
             <h6 class="person-name"> {{ name }} </h6>
+            <div class="bio">
             {% if person.linkedin %}
-                <div class="bio"><a href="{{ person.linkedin | escape }}"><img src="/img/linkedin.svg" height="18px" width="18px"></a><a href="{{ person.github | escape }}">&nbsp;<img src="/img/octocat.png" height="18px" width="18px"></a></div>
+               <a href="{{ person.linkedin | escape }}"><img src="/img/linkedin.svg" height="18px" width="18px"></a>
             {% endif %}
+            {% if person.github %}
+                <a href="{{ person.github | escape }}">&nbsp;<img src="/img/octocat.png" height="18px" width="18px"></a>
+            {% endif %}
+            </div>
             {% if person.bio %}
                 <div class="bio">{{person.bio}}</div>
             {% endif %}
