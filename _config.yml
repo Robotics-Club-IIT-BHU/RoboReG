@@ -44,6 +44,6 @@ navigation:
     link: /research.html
   - title: Code
     link: /code.html
-  - title: Joining
+  - title: Contact & Joining
     link: /join.html
 # theme: jekyll-theme-cayman
