@@ -22,8 +22,8 @@ roles:
   #   name: Researchers
   - key: mentors
     name: Mentors
-  - key: members2
-    name: Members
+  # - key: members2
+  #   name: Members
 
 
 # Number of news stories on the front page.

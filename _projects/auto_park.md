@@ -1,12 +1,16 @@
 ---
-title: Direct Policy Optimization
+title: Autonomous Parking
 
 description: |
-  Directly optimizing robust policies for feedback motion planning.
+  Autonomous Parking Management through Multi-Agent Reinforcement Learning
 
 people:
-  - taylor
-  - zac
+  - ajasragupta
+  - vikhyathvenkatraman
+  - amarjeetkeshri
+  - princegond
+  - niranthsai
+  - lokeshkrishna
 
 layout: project
 image: "/img/dpo/rocket_landing_dpo.gif"

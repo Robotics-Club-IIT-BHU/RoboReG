@@ -1,13 +1,15 @@
 ---
-title: Distributed Trajectory Optimization 
+title: Modular Robotics With Swarm Intelligence
 
 description: |
   Scalable Cooperative Transport of Cable-Suspended Loads with UAVs using Distributed Trajectory Optimization 
 
 people:
-  - zac
-  - brian
-  - taylor 
+  - somnathsendhil
+  - surabhitgupta
+  - tharungowda
+  - niranthsai
+  - lokeshkrishna
 
 layout: project
 image: "/img/team_lift.jpg"

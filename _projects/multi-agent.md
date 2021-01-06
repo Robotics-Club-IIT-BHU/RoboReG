@@ -1,5 +1,5 @@
 ---
-title: KickSat Project
+title: Simultaneous Multitasking Agent
 
 notitle: true
 
@@ -7,8 +7,11 @@ description: |
   Tiny low-cost satellites made on printed circuit boards
 
 people:
-  - zac
-  - max
+  - amanmishra
+  - akshatsood
+  - adityakumar
+  - niranthsai
+  - lokeshkrishna
 
 layout: project
 image: "/img/kicksat_logo.png"

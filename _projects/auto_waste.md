@@ -1,12 +1,14 @@
 ---
-title: Trajectory Optimization in the Circular Restricted Three-Body Problem (CR3BP)
+title: Waste Autonomous Robotics
 
 description: |
   The CR3BP is a useful model for designing and analyzing spacecraft trajectories that pass between multiple large bodies. We use optimization techniques to find trajectories that meet mission constraints while being dynamically feasible in the CR3BP.
 
 people:
-  - zac
-  - jared
+  - antarabanerjee
+  - atulkumar
+  - niranthsai
+  - lokeshkrishna
   
 layout: project
 image: "/img/CR3BP.jpg"
