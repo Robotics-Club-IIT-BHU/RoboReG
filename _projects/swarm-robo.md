@@ -8,8 +8,8 @@ people:
   - somnathsendhil
   - surabhitgupta
   - tharungowda
-  - lokeshkrishna
   - niranthsai
+  - lokeshkrishna
 
 layout: project
 image: "/img/team_lift.jpg"

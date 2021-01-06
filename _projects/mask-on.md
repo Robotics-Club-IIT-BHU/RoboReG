@@ -10,8 +10,8 @@ people:
   - ananyasingh
   - atulkumar
   - vishwaschepuri
-  - lokeshkrishna
   - niranthsai
+  - lokeshkrishna
 
 layout: project
 image: "/img/rendezvous.png"

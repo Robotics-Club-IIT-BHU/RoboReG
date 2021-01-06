@@ -7,8 +7,8 @@ description: |
 people:
   - antarabanerjee
   - atulkumar
-  - lokeshkrishna
   - niranthsai
+  - lokeshkrishna
   
 layout: project
 image: "/img/CR3BP.jpg"

@@ -8,8 +8,8 @@ people:
   - ayushshaw
   - raghavsoni
   - yashsahij
-  - lokeshkrishna
   - niranthsai
+  - lokeshkrishna
 
 layout: project
 image: "/img/ALGAMES/algames_banner.gif"

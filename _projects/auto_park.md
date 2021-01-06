@@ -9,8 +9,8 @@ people:
   - vikhyathvenkatraman
   - amarjeetkeshri
   - princegond
-  - lokeshkrishna
   - niranthsai
+  - lokeshkrishna
 
 layout: project
 image: "/img/dpo/rocket_landing_dpo.gif"
