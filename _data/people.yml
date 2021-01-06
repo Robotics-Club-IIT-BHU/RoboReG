@@ -2,7 +2,6 @@ aditiagarwal:
     display_name: "Aditi Agarwal"
     webpage: "https://github.com/aditiagrawal123"
     github: "https://github.com/aditiagrawal123"
-    linkedin: ""
     role: members
     image: /img/people/aditi.jpg
     bio: Robot control
@@ -94,6 +93,23 @@ jatineaga:
     role: members
     image: /img/people/jatin.jpg
     bio: Robots mobility and locomotive design and it's development, deep learning
+
+kritikabansal:
+    display_name: "Kritika Bansal"
+    webpage: "https://github.com/Kritika-Bansal"
+    github: "https://github.com/Kritika-Bansal"
+    role: members
+    image: /img/people/kritika.jpg
+    bio: Robot perception and planning
+
+mainaksamanta:
+    display_name: "Mainak Samanta"
+    webpage: "https://github.com/monako2001"
+    github: "https://github.com/monako2001"
+    linkedin: "https://www.linkedin.com/in/mainak-samanta-4-year-b-tech-electronics-engineering-56a871194"
+    role: members
+    image: /img/people/mainak.jpg
+    bio: Robot control, Robot perception and planning, Reinforcement Learning, Robotic Simulation, Computer Vision
 
 payalpote:
     display_name: "Payal Pote"

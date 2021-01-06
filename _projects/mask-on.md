@@ -8,7 +8,6 @@ people:
   - jatineaga
   - payalpote
   - ananyasingh
-  - atulkumar
   - vishwaschepuri
   - niranthsai
   - lokeshkrishna

@@ -7,6 +7,7 @@ description: |
   Tiny low-cost satellites made on printed circuit boards
 
 people:
+  - mainaksamanta
   - amanmishra
   - akshatsood
   - adityakumar

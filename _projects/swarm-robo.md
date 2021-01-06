@@ -8,6 +8,7 @@ people:
   - somnathsendhil
   - surabhitgupta
   - tharungowda
+  - kritikabansal
   - niranthsai
   - lokeshkrishna
 
