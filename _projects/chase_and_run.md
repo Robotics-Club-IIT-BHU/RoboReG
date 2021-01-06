@@ -1,12 +1,13 @@
 ---
-title: Dynamic Games Solver
+title: Chase and Run
 
 description: |
   Developing a fast and robust solver for constrained dynamic games aimed at identifying Nash equilibrium strategies.
 
 people:
-  - zac
-  - simon
+  - ayushshaw
+  - raghavsoni
+  - yashsahij
 
 layout: project
 image: "/img/ALGAMES/algames_banner.gif"

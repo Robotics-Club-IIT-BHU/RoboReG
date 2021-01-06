@@ -1,12 +1,13 @@
 ---
-title: Fast Solution of Optimal Control Problems With L1 Cost
+title: Mask-On
 
 description: |
   Developing a fast, low memory footprint algorithm to solve minimum-fuel problems with possible implementation onboard a CubeSat for embedded trajectory optimization.
 
 people:
-  - zac
-  - simon
+  - jatineaga
+  - payalpote
+  - ananyasingh
 
 layout: project
 image: "/img/rendezvous.png"
