@@ -1,5 +1,5 @@
 name: RoboReG
-url: https://roboticexplorationlab.github.io
+url: https://robotics-club-iit-bhu.github.io/roboreg_webpage
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
