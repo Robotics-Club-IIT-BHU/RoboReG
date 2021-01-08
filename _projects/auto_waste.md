@@ -7,6 +7,7 @@ description: |
 people:
   - antarabanerjee
   - atulkumar
+  - aditiagarwal
   - niranthsai
   - lokeshkrishna
   
