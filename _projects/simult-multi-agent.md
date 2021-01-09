@@ -15,13 +15,13 @@ people:
   - lokeshkrishna
 
 layout: project
-image: "/img/baxter.png"
+image: "/img/simult-multi-agent/baxter.png"
 last-updated: 2018-08-06
 ---
 
 Doing multiple tasks simultaneously is generally a human behaviour. But is it possible for a robot? In that part our project is based on. We are trying to explore how a robot can do multiple tasks which have low correlation between them simultaneously using a image frame and its depth value.
 
-![Description](/img/baxter_desc.png)
+![Description](/img/simult-multi-agent/baxter_desc.png)
 
 We first divided our project into some Tasks:
 Task-1: Make the environment and experimental setup
@@ -34,11 +34,12 @@ Task-5: Increase interaction complexity.
 
 <!-- ![Depth_Data](/img/depth_data.png) -->
 
-For our project we have made a Pybullet gym environment. We have used a prebuilt agent Baxter(Two handed robot). 
+For our project we have made a Pybullet gym environment. We have used a prebuilt agent Baxter(Two handed robot).
 
-For state the environment returns us a dictionary containing- 
+For state the environment returns us a dictionary containing-
+
 1. Eye view image
-2. Corresponding depth map 
+2. Corresponding depth map
 3. Hand end effectors position with respect to the agent
 
 For actions the environment uses a Bezier curve (trajectories through some fixed points) function.
@@ -47,5 +48,5 @@ For making a trajectory everytime we find the current end effector centroid, box
 For each trajectory we have taken points on it at 5 different timesteps and moved the hand to the points.
 One step is considered as traversing one trajectory in this environment.
 
-Reward: 
+Reward:
 For the whole trajectory we counted the cumulative reward by discounting the cumulative reward of previous time step.
