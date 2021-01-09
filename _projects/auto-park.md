@@ -13,11 +13,22 @@ people:
   - lokeshkrishna
 
 layout: project
-image: "/img/dpo/rocket_landing_dpo.gif"
+image: "/img/auto-park/full-parking.png"
 last-updated: 2020-10-16
 ---
 
-We present an approach for approximately solving discrete-time stochastic optimal control problems by combining direct trajectory optimization, deterministic sampling, and policy optimization. Our feedback motion planning algorithm uses a quasi-Newton method to simultaneously optimize a nominal trajectory, a set of deterministically chosen sample trajectories, and a parameterized policy. We demonstrate that this approach exactly recovers LQR policies in the case of linear dynamics, quadratic cost, and Gaussian noise. We also demonstrate the algorithm on several nonlinear, underactuated robotic systems to highlight its performance and ability to handle control limits, safely avoid obstacles, and generate robust plans in the presence of unmodeled dynamics.
+The primary aim of our project is to autonomously and smoothly park multiple cars at the same time without any sort of collisions between them. We aim to do this using the currently popular concept of Reinforcement Learning. The main reason we use this, in place of classical methods, is that we wish to see how the agent responds to stochasticity or randomness in the environment.
 
-An overview of Direct Policy Optimization is presented in this
-[video](https://youtu.be/oooab9QRHKs "video").
+![Parking](/img/auto-park/parking.png)
+
+We also use Image processing using a Convolutional Neural Network to automatically detect empty parking slots, and to gauge the location of the car and obstacles.
+
+We believe that such a system will be able to combine the benefits of the processing power of a machine and the intelligence of a human to deal with sticky situations.
+
+We have built our environment in the form of an OpenAI gym in Pybullet.
+
+![Racecar](/img/auto-park/racecar.png)
+
+![Surround Detection](/img/auto-park/surround-detection.png)
+
+Through this project, we aim to visualize how an everyday task like parking a car, which is not exactly very simple, is done by an agent without any explicit understanding of how a car is parked.

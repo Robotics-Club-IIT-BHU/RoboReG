@@ -2,7 +2,7 @@
 title: Chase and Run
 
 description: |
-  Developing a fast and robust solver for constrained dynamic games aimed at identifying Nash equilibrium strategies.
+  Developing a fast and robust control system for dynamic games aimed at identifying Nash equilibrium strategies and emergent behaviour in competitive settings. 
 
 people:
   - ayushshaw
@@ -12,23 +12,16 @@ people:
   - lokeshkrishna
 
 layout: project
-image: "/img/ALGAMES/algames_banner.gif"
+image: "/img/chase-and-run/car-chase.gif"
 last-updated: 2020-03-04
 ---
 
-Dynamic games are an effective paradigm for dealing with the control of multiple interacting actors. We introduces [ALGAMES](https://github.com/RoboticExplorationLab/ALGAMES.jl.git) (Augmented Lagrangian GAME-theoretic Solver), a solver that handles trajectory optimization problems with multiple actors and general nonlinear state and input constraints. Its novelty resides in satisfying the first order optimality conditions with a quasi-Newton root-finding algorithm and rigorously enforcing constraints using an augmented Lagrangian formulation. We evaluate our solver in the context of autonomous driving on scenarios with a strong level of interactions between the vehicles. We assess the robustness of the solver using MonteCarlo simulations. It is able to reliably solve complex problems like ramp merging with three vehicles three times faster than a state-of-the-art DDP-based approach. A model predictive control (MPC) implementation of the algorithm demonstrates real-time performance on complex autonomous driving scenarios with an update frequency higher than 60 Hz.
+One of the key challenges and active areas of research in robotics and control systems are multi-agent systems, especially those which involve collaboration or competition between individual systems. The traditional control strategies in these situations require a lot of control equations with underlying mathematics and physical dynamics of the system along with the communication protocols. This however, confines these systems to work in an already known fashion without display of any new behaviour. Through this project, we aim to visualize new emergent behaviours in competitive as well as mixed settings (competitive + collaborative) using multi-agent reinforcement learning as they provide a more robust and efficient way of developing a control system with the ability to perform new behaviours than traditional methods.
 
+Adversarial Chase and Run Cars Gym is a gym environment, to test and develop algorithms related to Multi Agent Systems, especially those related to Multi-Agent Reinforcement Learning. This was done under the Robotics Research Group (RoboReG) to try and learn emergent behavior between agents competing against each other via Reinforcement learning and how it could generate new control strategies.
 
+This gym environment consists of 2 mobile robots, where the task of one of the robots is to chase the other one, while the other simply avoids the chaser. The environment also consists of walls which define the operating area, so that the robots remain confined in a particular area. Though this has been done in 2D-worlds, analyzing emergent behaviour in a physical world with real physics and dynamics is a relatively less explored area.
 
-<!-- The main results obtained demonstrating ALGAMES performance are presented in this short video.
-[![ALGAMES](/img/algames_video.png)](https://www.youtube.com/watch?v=ZvaVNvw5fYw "ALGAMES") -->
+The gym environment was built in the physics simulator PyBullet - a python module for physics simulations of robots, because of its easy usage and integration with RL frameworks like Stable Baselines. Work is currently being done on training the agents to compete via Multi Agent Reinforcement Learning.
 
-The code for ALGAMES is made available on RexLab's GitHub [ALGAMES.jl](https://github.com/RoboticExplorationLab/ALGAMES.jl.git).
-
-The paper is available at [ALGAMES](https://roboticexplorationlab.org/papers/ALGAMES.pdf).
-
-<!-- ![Nash equilibrium strategies obtained with ALGAMES on a ramp merging scenario.](/img/ramp_merging.gif) -->
-
-<!-- ![Nash equilibrium strategies obtained with ALGAMES on a lane changing scenario.](/img/lane_changing.gif) -->
-
-<!-- ![Nash equilibrium strategies obtained with ALGAMES for an overtaking maneuver.](/img/ALGAMES/overtaking_landscape.gif) -->
+The mobile robots that are being used in the environment were built and designed completely in Blender, and were exported as URDFs, so that they could be imported in all physics simulators.
