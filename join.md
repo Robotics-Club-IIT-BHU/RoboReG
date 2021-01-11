@@ -22,6 +22,13 @@ If you are a student/Alumnus of IIT BHU, (B.Tech (any year), M.Tech or Ph.d) and
 **NOTE**: Kindly mail from you institute email id and shoot a mail addressed to the lead of RoboReG.Your mail should have information/points regarding the following 
 - a short description about yourself, 
 - your interests, skills 
+- A short write up of your project idea (if you want to pitch)
+- Why would you want to join RoboReG ?.
+
+**Not a Student of IIT (BHU) ?**
+
+Not a Student of IIT (BHU) but you would like to collaborate through projects ? We are ready to collaborate with you / your team. However, we prefer collaborating with an entire student group/ Robotics Clubs of you institute, over discrete members of another  institute. Kindly mail us with a subject line *“Requesting for external collaboration“*  and briefly describe what you intend to do by working with us.
+
 
 
 <br>
