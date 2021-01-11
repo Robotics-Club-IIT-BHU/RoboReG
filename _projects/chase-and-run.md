@@ -12,7 +12,7 @@ people:
   - lokeshkrishna
 
 layout: project
-image: "/img/chase-and-run/car-chase.gif"
+image: "/img/chase-and-run/cars.gif"
 last-updated: 2020-03-04
 ---
 
