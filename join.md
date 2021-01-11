@@ -27,7 +27,7 @@ If you are a student/Alumnus of IIT BHU, (B.Tech (any year), M.Tech or Ph.d) and
 
 **Not a Student of IIT (BHU) ?**
 
-Not a Student of IIT (BHU) but you would like to collaborate through projects ? We are ready to collaborate with you / your team. However, we prefer collaborating with an entire student group/ Robotics Clubs of you institute, over discrete members of another  institute. Kindly mail us with a subject line *“Requesting for external collaboration“*  and briefly describe what you intend to do by working with us.
+Not a Student of IIT (BHU) but you would like to collaborate through projects ? We are ready to collaborate with you / your team. However, we prefer collaborating with an **entire student group/ Robotics Clubs** of you institute, over discrete members of another  institute. Kindly mail us with a subject line *“Requesting for external collaboration“*  and briefly describe what you intend to do by working with us.
 
 
 
