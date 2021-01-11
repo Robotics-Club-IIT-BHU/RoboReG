@@ -2,7 +2,7 @@
 title: Mask-On
 
 description: |
-  Developing a fast, low memory footprint algorithm to solve minimum-fuel problems with possible implementation onboard a CubeSat for embedded trajectory optimization.
+  This project includes using robots for human surveillance in shopping malls and grocery stores.
 
 people:
   - jatineaga
@@ -13,16 +13,25 @@ people:
   - lokeshkrishna
 
 layout: project
-image: "/img/rendezvous.png"
+image: "/img/mask-on/mask-tracking.gif"
 last-updated: 2019-08-06
 ---
 
-Finding trajectories that minimize fuel-consumption or time to reach a goal is essential in many engineering fields and especially in astrodynamics. The formulation of such minimization problem is simple and involves a L1-norm cost term. This type of cost, however, greatly complicates the solve because of its nondifferentiability. This prevents the use of classical trajectory optimization solvers relying on cost differentiation. Also using commercial solvers without taking the structure of the optimization problem into account leads to long solving time and large memory footprint. This prevents the implementation of such solvers onboard of embedded systems such as small satellites.
+The CORONA virus has taught us many things, right from sanitation of the body to surroundings. So this helps us to find out and keep the area virus free.
 
-This research proposes an iterative algorithm to solve optimal control problems with L1 cost. It decompose the original problem into a sequence of simple linear-quadratic problems (LQR) using the alternating direction method of multipliers (ADMM). The low computational complexity coupled with the fast execution of this algorithm make it suitable for implementation in flight software.
+![Mall](/img/mask-on/mall.jpg)
 
-Future work includes implementation of the optimization algorithm  to embedded hardware. Potential application of this algorithm could be autonomous trajectory planning on small satellites, which is the objective of the [Pathfinder for Autonomous Navigation mission(PAN)](https://www.spacecraftresearch.com/pan). 
+![Humans](/img/mask-on/diff_humans.jpg)
 
-The code for the proposed algorithm is made available on RexLab's GitHub [L1CostOptimizer.jl](https://github.com/RoboticExplorationLab/L1CostOptimizer.jl.git).
+We are working on building two sets of pipelines while one at entrance and other on a turtle bot trying to find someone is not following protocols.
 
-![L1CostOptimizer solving a spacecraft rendezvous problem](/img/rendezvous.gif)
+ENTRANCE - Facial mask detection along with body temperature checking.
+
+TURTLE-BOT - This is a small bot which roams in the mall and tracks every person who comes into the camera feed and checks for a mask but if he fails to have it in the proper position then it will notify the mall's or store's authority to take action against the person involved in this.
+![Bot](/img/mask-on/bot.png)
+
+To make this happen, we started training and simulating a mall / grocery like environment using ros in the gazebo simulator. The turtle bot is used especially for getting precise information regarding any kind of activities such as cough and sneeze. We can also work on surveillance camera feed to find if any person is violating the protocols.
+
+![Mask Detection](/img/mask-on/mask-detection.gif)
+
+This project would help us become more precautious regarding masks and personal care i.e sanitation.

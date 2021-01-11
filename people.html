@@ -3,13 +3,18 @@ layout: default
 title: People
 
 picture-role-groups:
-- {roles: [mentors, members2], width: 4}
-- {roles: [members], width: 8}
+- {roles: [mentors], width: 6}
+- {roles: [mentors1], width: 6}
 
 no-picture-role-groups:
-- {roles: [], width: 7}
+- {roles: [members2], width: 6}
+- {roles: [members], width: 6}
 ---
 
+<h2 align="center">Mentors</h3>
+<p>
+<br>
+</p>
 <section class="people row justify-content-between">
     {% for role-group in page.picture-role-groups %}
         <div class="col-md-{{ role-group.width }}">
@@ -20,11 +25,15 @@ no-picture-role-groups:
     {% endfor %}
 </section>
 
+<h2 align="center">Members</h2>
+<p>
+    <br>
+    </p>
 <section class="people row justify-content-between">
     {% for role-group in page.no-picture-role-groups %}
         <div class="col-md-{{ role-group.width }}">
             {% for role in role-group.roles %}
-                {% include role-people.html role=role image=false %}
+                {% include role-people.html role=role image=true %}
             {% endfor %}
         </div>
     {% endfor %}
