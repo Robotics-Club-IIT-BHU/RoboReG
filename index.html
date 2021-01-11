@@ -20,11 +20,73 @@ role-tables:
 
 ---
 
-<div class="jumbotron">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+<div class="container">
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
+        <li data-target="#myCarousel" data-slide-to="4"></li>
+        <li data-target="#myCarousel" data-slide-to="5"></li>
+        <li data-target="#myCarousel" data-slide-to="6"></li>
+      </ol>
+  
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner">
+        <div class="item active">
+          <img src="{{ site.base }}/img/Jerbotall3.gif" alt="Jerbot" style="width:100%;">
+  <!--          <video width="1126" height="440"  autoplay preload="">-->
+  <!--  <source src="video/Stoch_Intro1.mp4" type="video/mp4">-->
+  <!--  Your browser does not support the video tag.-->
+  <!--</video>-->
+        </div>
+         <div class="item">
+          <img src="{{ site.base }}/img/auto-park/full-parking.png" alt="parking" style="width:100%;">
+        </div>
+        <div class="item", style="width:1000; height: 600;">
+          <img src="{{ site.base }}/img/auto-waste/design-vision-model.jpg" alt="auto-waste" width="50%" height="50%">
+        </div>
+        <div class="item">
+          <img src="{{ site.base }}/img/chase-and-run/car-chase.gif" alt="chase-run" style="width:100%;">
+        </div>
+        <div class="item">
+          <img src="{{ site.base }}/img/mask-on/mask-tracking.gif" alt="maskon" style="width:100%;">
+        </div>
+        <div class="item" style="width:1000; height: 600;">
+          <img src="{{ site.base }}/img/simult-multi-agent/baxter.gif" alt="gaits" width="50%" height="50%" >
+        </div>
+        <div class="item">
+          <img src="{{ site.base }}/img/swarm/iota_bRoll.gif" alt="gaits" style="width:100%;">
+        </div>
+      </div>
+  
+      <!-- Left and right controls -->
+      <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#myCarousel" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+  </div>
+
+
+  <div class="lab-bio"><p style="margin-top: 30px; font-family:Georgia, 'Times New Roman', Times, serif; font-size: 25px;font-style: italic;font-weight: 300;"> 
+  We are the group of robotics enthusiasts that actively investigate the different domains of robotics. Our main focus is to carry out projects that are previously unthought, undone and untested through our novel approaches and rigorous experimentations. We are currently working in the domain of learning-based techniques in <span style="font-weight: bold;">robot planning, control and decision making </span>in terms of both single-agent and multi-agent settings for robotic systems. Our goal is to extend the state of art and actively contribute to the robotics community through our diverse set of projects. At present we are a part of the <span style="font-weight: bold;">Robotics Club of IIT(BHU)</span>, and actively seek out for collaborations. Check out our projects and free feel to contact us at <a href="mailto:roboreg.iitbhu@gamail.com">roboreg.iitbhu@gmail.com </a></p></div>
+
+<!-- <div class="jumbotron">
     <p>
         The <b>Robotics Research Group</b> of <b>The Robotics Club</b> at <b>the Indian Institute of Technology(BHU), Varanasi</b> conducts research in the fields of computer vision, control, motion planning and navigation for robotic systems to come up with exciting results.
     </p>
-</div>
+</div> -->
 
 <section>
     <h2>News</h2>
