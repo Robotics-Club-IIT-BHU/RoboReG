@@ -206,7 +206,7 @@ niranthsai:
     webpage: "https://github.com/NiranthS"
     github: "https://github.com/NiranthS"
     linkedin: "https://www.linkedin.com/in/niranth-sai-35386b179/"
-    role: mentors
+    role: mentors1
     image: /img/people/niranth.jpg
     bio: Robot perception, HRI, Deep Learning and Reinforcement Learning
 
@@ -215,7 +215,7 @@ lokeshkrishna:
     webpage: "https://github.com/lok-i"
     github: "https://github.com/lok-i"
     linkedin: "https://www.linkedin.com/in/lokesh-krishna-92911719b/"
-    role: mentors1
+    role: mentors
     image: /img/people/lokesh.jpg
     bio: Optimal Control, Robot Learning, Legged Robotic Systems
 

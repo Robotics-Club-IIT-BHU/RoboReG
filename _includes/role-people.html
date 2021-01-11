@@ -7,6 +7,12 @@
             {% for item in site.data.people %}
                 {% assign person = item[1] %}
                 {% if person.role == role.key %}
+                    {% if person.role == 'mentors' %}
+                        <h4>RoboReG Technical Head</h4>
+                    {% endif %}
+                    {% if person.role == 'mentors1' %}
+                        <h4>Robotics Club Secretary</h4>
+                    {% endif %}
                     {% include person.html person=person image=include.image %}
                 {% endif %}
             {% endfor %}
