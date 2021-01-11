@@ -3,8 +3,8 @@ url: https://robotics-club-iit-bhu.github.io/RoboReG
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
-# Base pathname for links. Uncomment this to build for deployment.
-# base: /rexlab-website
+#Base pathname for links. Uncomment this to build for deployment.
+base: https://robotics-club-iit-bhu.github.io/RoboReG
 
 # colorize code snippets with the rouge module
 highlighter: rouge
