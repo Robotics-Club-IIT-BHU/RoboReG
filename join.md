@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Contact Us
-
 The easiest  way to contact us is by sending a mail to **[roboreg.iitbhu@gmail.com](mailto:roboreg.iitbhu@gmail.com)** for joining us in any of the following modes. We request you to read through the following categories and mail us with the appropriate information.
 
 ## Joining
