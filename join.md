@@ -15,9 +15,9 @@ At RobotReG we have weekly sessions where members  of our group with their exper
 
 If you are a student/Alumnus of IIT BHU, (B.Tech (any year), M.Tech or Ph.d) and interested in carrying out such projects or be a part of our going projects, you are welcome to be a part of RoboReG given that you have prerequisites. You can contact us for any of the following reasons
 
-- You have a Project Idea : If you have an idea, and either with or without a team and seek mentorship and guidance, mail with the subject line *“Requesting for Pitching a Project Idea - IIT BHU”*.
+- **You have a Project Idea** : If you have an idea, and either with or without a team and seek mentorship and guidance, mail with the subject line *“Requesting for Pitching a Project Idea - IIT BHU”*.
 
-- You want to contribute to a Project idea :  Good at Robot Design ? Robot control ? or Robot software and simulation. Want to put your skills in practice  in any of our pre-existing project or new project pitches, mail us with the subject line *“Requesting for contributing in a Project - IIT BHU”*
+- **You want to contribute to a Project idea** :  Good at Robot Design ? Robot control ? or Robot software and simulation. Want to put your skills in practice  in any of our pre-existing project or new project pitches, mail us with the subject line *“Requesting for contributing in a Project - IIT BHU”*
 
 **NOTE**: Kindly mail from you institute email id and shoot a mail addressed to the lead of RoboReG.Your mail should have information/points regarding the following 
 - a short description about yourself, 
