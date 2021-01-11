@@ -24,8 +24,8 @@ If you are a student/Alumnus of IIT BHU, (B.Tech (any year), M.Tech or Ph.d) and
 - your interests, skills 
 
 
-
-<div>
+<br>
+<div align='center'>
 	<a href="https://www.linkedin.com/company/robotics-club-iit-bhu-varanasi/?originalSubdomain=in"><img src="./img/linkedin.svg" 			alt="LinkedIn" width="2%"/></a>
 
 	<a href="https://github.com/Robotics-Club-IIT-BHU"><img src="./img/octocat.png" alt="GitHub" width="2%"/></a>
