@@ -110,7 +110,7 @@ The requirements for building the site are:
 * ssh and rsync, only if you want to deploy directly.
 
 `make` compiles the bibliography and the website content to the `_site`
-directory. To preview the site, run `jekyll serve`` and head to
+directory. To preview the site, run `jekyll serve` and head to
 http://0.0.0.0:5000.
 
 
