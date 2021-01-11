@@ -25,7 +25,7 @@ layout: default
 <section class="people project-people">
     {% for uname in page.people %}
         {% assign person = site.data.people[uname] %}
-        {% include person.html person=person image=true%}
+        {% include project-person.html person=person image=true%}
     {% endfor %}
 </section>
 Last updated: {{ page.last-updated }}
