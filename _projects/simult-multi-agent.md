@@ -15,15 +15,15 @@ people:
   - lokeshkrishna
 
 layout: project
-image: "/img/simult-multi-agent/env.png"
+image: "./img/simult-multi-agent/env.png"
 last-updated: 2018-08-06
 ---
 
 Doing multiple tasks simultaneously is generally a human behaviour. But is it possible for a robot? In that part our project is based on. We are trying to explore how a robot can do multiple tasks which have low correlation between them simultaneously using a image frame and its depth value.
 
-![Baxter Description](/img/simult-multi-agent/baxter_desc.png)
-![Baxter Working](/img/simult-multi-agent/baxter.gif)
-![Baxter pic](/img/simult-multi-agent/baxter.png)
+![Baxter Description](./img/simult-multi-agent/baxter_desc.png)
+![Baxter Working](./img/simult-multi-agent/baxter.gif)
+![Baxter pic](./img/simult-multi-agent/baxter.png)
 
 We first divided our project into some Tasks:
 Task-1: Make the environment and experimental setup
@@ -40,8 +40,8 @@ For state the environment returns us a dictionary containing-
 2. Corresponding depth map
 3. Hand end effectors position with respect to the agent
 
-![Image Data](/img/simult-multi-agent/image_data.png)
-![Depth Data](/img/simult-multi-agent/depth_data.png)
+![Image Data](./img/simult-multi-agent/image_data.png)
+![Depth Data](./img/simult-multi-agent/depth_data.png)
 
 For actions the environment uses a Bezier curve (trajectories through some fixed points) function.
 For making a trajectory everytime we find the current end effector centroid, box centroid and their mid point as the fixed points of the curve and then using the input weights we made trajectories for both the hands.
