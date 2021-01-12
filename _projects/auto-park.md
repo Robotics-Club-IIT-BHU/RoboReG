@@ -13,7 +13,7 @@ people:
   - lokeshkrishna
 
 layout: project
-image: "./img/auto-park/parking.gif"
+image: "/img/auto-park/parking.gif"
 last-updated: 2020-10-16
 ---
 
