@@ -15,7 +15,7 @@ people:
   - lokeshkrishna
 
 layout: project
-image: "./img/simult-multi-agent/env.png"
+image: "/img/simult-multi-agent/env.png"
 last-updated: 2018-08-06
 ---
 
