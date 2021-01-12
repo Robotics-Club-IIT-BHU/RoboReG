@@ -13,7 +13,7 @@ people:
   - lokeshkrishna
 
 layout: project
-image: "./img/auto-park/parking.gif"
+image: "{{ site.base }}/img/auto-park/parking.gif"
 last-updated: 2020-10-16
 ---
 
@@ -27,10 +27,10 @@ We believe that such a system will be able to combine the benefits of the proces
 
 We have built our environment in the form of an OpenAI gym in Pybullet.
 
-![Racecar](./img/auto-park/racecar.png)
+![Racecar]({{ site.base }}/img/auto-park/racecar.png)
 
 The agent(car) gets its inputs in the form of 14 readings, namely its position(x, y), velocity(x, y), orientation(x, y) and readings from 8 proximity sensors, each at angle of 45 degrees. We do not use the overhead camera images for training, even though they may eventually be better, as training on camera images is quite heavy.
 
-![Surround Detection](./img/auto-park/surround-detection.png)
+![Surround Detection]({{ site.base }}/img/auto-park/surround-detection.png)
 
 Through this project, we aim to visualize how an everyday task like parking a car, which is not exactly very simple, is done by an agent without any explicit understanding of how a car is parked.
