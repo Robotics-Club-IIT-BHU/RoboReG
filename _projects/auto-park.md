@@ -19,7 +19,7 @@ last-updated: 2020-10-16
 
 The primary aim of our project is to autonomously and smoothly park multiple cars at the same time without any sort of collisions between them. We aim to do this using the currently popular concept of Reinforcement Learning. The main reason we use this, in place of classical methods, is that we wish to see how the agent responds to stochasticity or randomness in the environment.
 
-![Parking]({{ site.base }}/img/auto-park/full-parking.png)
+<img align="center" alt="parking" src="{{ site.base }}/img/auto-park/full-parking.png">
 
 We also use Image processing using a Convolutional Neural Network to automatically detect empty parking slots, and to gauge the location of the car and obstacles. We do not, however, directly use this to control the car. The car itself gets an alternative set of inputs.
 
