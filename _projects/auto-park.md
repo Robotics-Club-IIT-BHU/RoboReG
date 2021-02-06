@@ -2,7 +2,7 @@
 title: Autonomous Parking
 
 description: |
-  Autonomous Parking Management through Multi-Agent Reinforcement Learning
+  Autonomous Parking Management through Reinforcement Learning
 
 people:
   - ajasragupta
