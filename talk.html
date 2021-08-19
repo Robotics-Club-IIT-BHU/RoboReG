@@ -1,47 +1,188 @@
----
-layout: default
-title: <center>Our Ancestory
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>RoboReG: RoboReG Talks</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet"
+              href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+              integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+              crossorigin="anonymous">
+        <link rel="stylesheet"
+              href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://robotics-club-iit-bhu.github.io/RoboReG/css/group.css">
+        <link rel="apple-touch-icon" sizes="180x180" href="https://robotics-club-iit-bhu.github.io/RoboReG/border.jpg">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://robotics-club-iit-bhu.github.io/RoboReG/border.jpg">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://robotics-club-iit-bhu.github.io/RoboReG/border.jpg">
+        <link rel="manifest" href="https://robotics-club-iit-bhu.github.io/RoboReG/site.webmanifest">
+        <link rel="mask-icon" href="https://robotics-club-iit-bhu.github.io/RoboReG/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="theme-color" content="#ffffff">
+    </head>
+    <body>
+        <div class="container">
+            <!-- This is a bit nasty, but it basically says be a column first, and on larger screens be a spaced out row -->
+            <div class="header d-flex
+                        flex-column
+                        flex-md-row justify-content-md-between align-items-md-end">
+                <a href="https://robotics-club-iit-bhu.github.io/RoboReG/" class="">
+                    <img src="https://robotics-club-iit-bhu.github.io/RoboReG/img/logo.png"
+                         alt="Roboreg" id="logo" style="width:375px;height:110px">
+                </a>
+                <ul class="nav nav-pills justify-content-center">
 
-picture-role-groups:
-- {roles: [mentors], width: 6}
-- {roles: [mentors1], width: 6}
+                    
+                    
 
-no-picture-role-groups:
-- {roles: [members2], width: 6}
-- {roles: [members], width: 6}
----
+                        
 
-<h3 align="left"><b>Iteration 0:</b> Founders</h3>
-<p>
-<br>
-</p>
-<section class="people row justify-content-between">
-    {% for role-group in page.picture-role-groups %}
-        <div class="col-md-{{ role-group.width }}">
-            {% for role in role-group.roles %}
-                {% include role-ancestory.html role=role image=true %}
-            {% endfor %}
-        </div>
-    {% endfor %}
-</section>
+                        
+                        
+                        
 
-<h3 align="left"><b>Iteration 1:</b> Team of 2020-21</h3>
-<p>
-    <br>
-    </p>
-<section class="people row justify-content-between">
-    {% for role-group in page.no-picture-role-groups %}
-        <div class="col-md-{{ role-group.width }}">
-            {% for role in role-group.roles %}
-                {% include role-ancestory.html role=role image=true %}
-            {% endfor %}
-        </div>
-    {% endfor %}
-</section>
+                        <li class="nav-item">
+                            <a class="nav-link "
+                               href="https://robotics-club-iit-bhu.github.io/RoboReG/">
+                                Home
+                            </a>
+                        </li>
 
-<h3 align="left"><b>Iteration 2:</b> Team of 2021-22</h3>
-<p>
-    <br>
-    </p>
-<h4 align="center">to be added soon ...</h4>
-</section>
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link "
+                               href="https://robotics-club-iit-bhu.github.io/RoboReG/people.html">
+                                People
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link "
+                               href="https://robotics-club-iit-bhu.github.io/RoboReG/research.html">
+                                Research
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link active"
+                               href="https://robotics-club-iit-bhu.github.io/RoboReG/code.html">
+                                Code
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link "
+                               href="https://robotics-club-iit-bhu.github.io/RoboReG/talk.html">
+                                RoboReG Talks
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link "
+                               href="https://robotics-club-iit-bhu.github.io/RoboReG/join.html">
+                                Contact & Joining
+                            </a>
+                        </li>
+
+                    
+
+                        
+
+                        
+                        
+                        
+
+                        <li class="nav-item">
+                            <a class="nav-link "
+                               href="https://robotics-club-iit-bhu.github.io/RoboReG/ancestory.html">
+                                Group's Ancestory
+                            </a>
+                        </li>
+
+                    
+
+                </ul>
+            </div>
+
+            
+
+            
+                <h2><p align="center">RoboReG Talks</p></h2>
+            
+
+            <p><em>Code</em>, <em>competitions</em>  and the annual <em>summer</em>  and <em>winter</em> <em>camps</em> conducted by our group are <a href="https://github.com/Robotics-Club-IIT-BHU" target="_blank">hosted on GitHub</a>.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">   <code class="language-plaintext highlighter-rouge">Previous Talks</code></th>
+      <th style="text-align: center">   <code class="language-plaintext highlighter-rouge">Upcoming Talks</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><br /></td>
+      <td style="text-align: center"><br /></td>
+    </tr>
+    <tr>
+        <td style="text-align: center"><strong><a href="https://www.linkedin.com/in/rishabhchadha" >Rishabh Chadha</a></strong>, a Robotics Graduate Student Researcher at the Worcester Polytechnic Institute, gave a talk revolving around <strong>Computer Vision and Robotics</strong>. </td>
+      <td style="text-align: center"><strong><a href="https://www.linkedin.com/in/baladhurgesh" >Rishabh Chadha</a></strong>, a Robotics Graduate Student Researcher at the Worcester Polytechnic Institute, gave a talk revolving around <strong>Computer Vision and Robotics</strong>. </td></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><br /><strong><a href="https://www.linkedin.com/in/shreyansh-daftry" >Shreyansh Daftry</a></strong> from the NASA Jet propulsion Labratory gave a talk which was highly informative and threw light on the emerging potential of robotics and automation in space exploration. Check out his talk titled <strong>AI and Robotics For Space Exploration</strong> in Youtube.  </td>
+      <td style="text-align: left"><br /></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- </div> -->
+<p><br /><br /></p>
+
+<p>This website is based on code from the <a href="https://github.com/uwsampa/research-group-web">SAMPA group at the University of Washington</a>.</p>
+
+
+        </div> <!-- /container -->
+
+        <!-- Support retina images. -->
+        <script type="text/javascript"
+                src="https://robotics-club-iit-bhu.github.io/RoboReG/js/srcset-polyfill.js"></script>
+    </body>
+</html>
