@@ -1,5 +1,47 @@
-<!DOCTYPE html>
-<head>
+---
+layout: default
+title: <center>Our Ancestory
 
-</head>
-</html>
+picture-role-groups:
+- {roles: [mentors], width: 6}
+- {roles: [mentors1], width: 6}
+
+no-picture-role-groups:
+- {roles: [members2], width: 6}
+- {roles: [members], width: 6}
+---
+
+<h3 align="left"><b>Iteration 0:</b> Founders</h3>
+<p>
+<br>
+</p>
+<section class="people row justify-content-between">
+    {% for role-group in page.picture-role-groups %}
+        <div class="col-md-{{ role-group.width }}">
+            {% for role in role-group.roles %}
+                {% include role-ancestory.html role=role image=true %}
+            {% endfor %}
+        </div>
+    {% endfor %}
+</section>
+
+<h3 align="left"><b>Iteration 1:</b> Team of 2020-21</h3>
+<p>
+    <br>
+    </p>
+<section class="people row justify-content-between">
+    {% for role-group in page.no-picture-role-groups %}
+        <div class="col-md-{{ role-group.width }}">
+            {% for role in role-group.roles %}
+                {% include role-ancestory.html role=role image=true %}
+            {% endfor %}
+        </div>
+    {% endfor %}
+</section>
+
+<h3 align="left"><b>Iteration 2:</b> Team of 2021-22</h3>
+<p>
+    <br>
+    </p>
+<h4 align="center">to be added soon ...</h4>
+</section>
