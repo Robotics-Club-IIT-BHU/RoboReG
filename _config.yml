@@ -32,6 +32,14 @@ roles:
     name: Members
   - key: mentors1
     name: Mentors
+  - key: ancestors_0
+    name: Ancestors_0
+  - key: ancestors_0_1
+    name: Ancestors_1
+  - key: ancestor_1_0
+    name: ancestor_1
+  - key: ancestor_1_1
+    name: Ancestor_1_1
 
 
 # Number of news stories on the front page.
