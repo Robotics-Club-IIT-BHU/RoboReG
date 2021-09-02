@@ -16,6 +16,10 @@ permalink: /blog/:year/:month/:day/:title.html
 roles:
   - key: members
     name: Members
+  - key: technicalLead
+    name: leads
+  - key: technicalLead1
+    name: leads1
   # - key: staff
   #   name: Staff
   # - key: postdoc
