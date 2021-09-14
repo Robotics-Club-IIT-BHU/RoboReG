@@ -3,61 +3,40 @@ layout: default
 title: <center>Our Ancestory
 
 picture-role-groups:
-- {roles: [ancestors_0], width: 6}
-- {roles: [ancestors_0_1], width: 6}
+  - { roles: [ancestors_0], width: 6 }
+  - { roles: [ancestors_0_1], width: 6 }
 
 no-picture-role-groups:
-- {roles: [technicalLead], width: 6}
-- {roles: [technicalLead1], width: 6}
-- {roles: [mentors], width: 6}
-- {roles: [mentors1], width: 6}
-- {roles: [ancestor_1_0], width: 6}
-- {roles: [ancestor_1_1], width: 6}
-
-no-picture-role-groups-new:
-- {roles: [new_joinee], width: 6}
-- {roles: [new_joinee1], width: 6}
+  - { roles: [technicalLead], width: 6 }
+  - { roles: [technicalLead1], width: 6 }
+  - { roles: [mentors], width: 6 }
+  - { roles: [mentors1], width: 6 }
+  - { roles: [ancestor_1_0], width: 6 }
+  - { roles: [ancestor_1_1], width: 6 }
 ---
 
 <h3 align="left"><b>Iteration 0:</b> Founders</h3>
 <p>
-<br>
+  <br />
 </p>
 <section class="people row justify-content-between">
-    {% for role-group in page.picture-role-groups %}
-        <div class="col-md-{{ role-group.width }}">
-            {% for role in role-group.roles %}
-                {% include role-ancestory.html role=role image=true %}
-            {% endfor %}
-        </div>
-    {% endfor %}
+  {% for role-group in page.picture-role-groups %}
+  <div class="col-md-{{ role-group.width }}">
+    {% for role in role-group.roles %} {% include role-ancestory.html role=role
+    image=true %} {% endfor %}
+  </div>
+  {% endfor %}
 </section>
 
 <h3 align="left"><b>Iteration 1:</b> Team of 2020-21</h3>
 <p>
-    <br>
-    </p>
+  <br />
+</p>
 <section class="people row justify-content-between">
-    {% for role-group in page.no-picture-role-groups %}
-        <div class="col-md-{{ role-group.width }}">
-            {% for role in role-group.roles %}
-                {% include role-ancestory.html role=role image=true %}
-            {% endfor %}
-        </div>
-    {% endfor %}
-</section>
-
-<h3 align="left"><b>Iteration 2:</b> Team of 2021-22</h3>
-<p>
-    <br>
-    </p>
-    <section class="people row justify-content-between">
-        {% for role-group in page.no-picture-role-groups-new %}
-            <div class="col-md-{{ role-group.width }}">
-                {% for role in role-group.roles %}
-                    {% include role-ancestory.html role=role image=true %}
-                {% endfor %}
-            </div>
-        {% endfor %}
-    </section>
+  {% for role-group in page.no-picture-role-groups %}
+  <div class="col-md-{{ role-group.width }}">
+    {% for role in role-group.roles %} {% include role-ancestory.html role=role
+    image=true %} {% endfor %}
+  </div>
+  {% endfor %}
 </section>
