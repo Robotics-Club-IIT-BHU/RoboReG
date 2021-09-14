@@ -259,7 +259,7 @@ amiteshvasta:
 SinghNitishkumarRameshchandra:
   display_name: "Singh Nitishkumar Rameshchandra"
   role: new_joinee
-  
+
 AyushJha:
   display_name: "Ayush Jha"
   role: new_joinee
@@ -272,14 +272,14 @@ Varadvinayakpandey:
   display_name: "Varad Vinayak Pandey"
   role: new_joinee
 
-amiteshvasta:
-  display_name: "Amitesh Vasta"
-  role: new_joinee
-
 SwetaSneh:
   display_name: "Sweta Sneh"
   role: new_joinee
-  
+
+UtkrishtKumarSingh:
+  display_name: "Utkrisht Kumar Singh"
+  role: new_joinee
+
 AstitvaGupta:
   display_name: "Astitva Gupta"
   role: new_joinee1
@@ -289,17 +289,17 @@ HarshMahesheka:
   role: new_joinee1
 
 Viditagarwal:
-  display_name: "ViditAgarwal"
+  display_name: "Vidit Agarwal"
   role: new_joinee1
 
-ShaliniShag:
-  display_name: "Shalini Shag"
+ShaliniSihag:
+  display_name: "Shalini Sihag"
   role: new_joinee1
 
 GujullaLeelSriniRohan:
   display_name: "Gujulla Leel Srini Rohan"
   role: new_joinee1
-  
+
 SanidhyaTarparia:
   display_name: "Sanidhya Tarparia"
   role: new_joinee1
@@ -315,7 +315,11 @@ PratyushSingh:
 PratikMishra:
   display_name: "Pratik Mishra"
   role: new_joinee1
-  
+
+YatharthMaanik:
+  display_name: "Yatharth Maanik"
+  role: new_joinee1
+
 ayushishan:
   display_name: "Ayush Ishan"
   role: new_joinee1
@@ -327,10 +331,6 @@ dhruvagarwal:
 AryamanGupta:
   display_name: "Aryaman Gupta"
   role: new_joinee1
-
-
-
-
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
