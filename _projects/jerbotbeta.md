@@ -36,6 +36,14 @@ Checkout the project repo [here]](https://github.com/RaISy-Net/JerBot)
 
 As a team, we are currently pursuing the second iteration of our robot named, JerbotBeta with adequate consideration given to the hardware design and development to closely resemble the Linear Inverted Pendulum, a mathematical template model to capture the essence of bipedal walking. Our current work revolves around the extension to torque control based on highly dynamic hardware design and exploring the sophisticated control techniques for agile locomotion.
 
+<p align="center">
+
+   <img width="350" height="280" src="https://robotics-club-iit-bhu.github.io/RoboReG/img/jerbotbeta/lateral.jpeg">
+   <img width="350" height="280" src="https://robotics-club-iit-bhu.github.io/RoboReG/img/jerbotbeta/ik.gif">
+   <img width="350" height="280" src="https://robotics-club-iit-bhu.github.io/RoboReG/img/jerbotbeta/blender.jpeg">
+</p>
+
+
 ### Project Collaborators
 
 * [Nishant Kumar](https://nishantkr18.github.io/), active: 2019-20
