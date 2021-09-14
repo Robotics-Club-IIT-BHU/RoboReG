@@ -1,232 +1,335 @@
 aditiagarwal:
-    display_name: "Aditi Agarwal"
-    webpage: "https://github.com/aditiagrawal123"
-    github: "https://github.com/aditiagrawal123"
-    role: ancestor_1_0
-    image: /img/people/aditi.jpg
-    bio: Robot control
+  display_name: "Aditi Agarwal"
+  webpage: "https://github.com/aditiagrawal123"
+  github: "https://github.com/aditiagrawal123"
+  role: ancestor_1_0
+  image: /img/people/aditi.jpg
+  bio: Robot control
 
 adityakumar:
-    display_name: "Aditya Kumar"
-    webpage: "https://arch-raven.github.io"
-    github: "https://github.com/arch-raven"
-    linkedin: "https://www.linkedin.com/in/adityakumar19/"
-    role: ancestor_1_0
-    image: /img/people/aditya.jpg
-    bio: Deep Learning
+  display_name: "Aditya Kumar"
+  webpage: "https://arch-raven.github.io"
+  github: "https://github.com/arch-raven"
+  linkedin: "https://www.linkedin.com/in/adityakumar19/"
+  role: ancestor_1_0
+  image: /img/people/aditya.jpg
+  bio: Deep Learning
 
 ajasragupta:
-    display_name: "Ajasra Gupta"
-    webpage: "https://github.com/Ajasra22"
-    github: "https://github.com/Ajasra22"
-    linkedin: "https://www.linkedin.com/in/ajasra-gupta-a61663191"
-    role: ancestor_1_0
-    image: /img/people/ajasra.jpg
-    bio: Deep Learning, Reinforcement Learning, Path Planning
-    
+  display_name: "Ajasra Gupta"
+  webpage: "https://github.com/Ajasra22"
+  github: "https://github.com/Ajasra22"
+  linkedin: "https://www.linkedin.com/in/ajasra-gupta-a61663191"
+  role: ancestor_1_0
+  image: /img/people/ajasra.jpg
+  bio: Deep Learning, Reinforcement Learning, Path Planning
+
 akshatsood:
-    display_name: "Akshat Sood"
-    github: "https://github.com/akshatsood2249"
-    webpage: "https://github.com/akshatsood2249"
-    linkedin: "https://www.linkedin.com/in/akshatsood2249"
-    role: ancestor_1_0
-    image: /img/people/akshat.png
-    bio: Reinforcement Learning , Robot Perception and Planning
+  display_name: "Akshat Sood"
+  github: "https://github.com/akshatsood2249"
+  webpage: "https://github.com/akshatsood2249"
+  linkedin: "https://www.linkedin.com/in/akshatsood2249"
+  role: ancestor_1_0
+  image: /img/people/akshat.png
+  bio: Reinforcement Learning , Robot Perception and Planning
 
 amanmishra:
-    display_name: "Aman Mishra"
-    webpage: "https://github.com/Amshra267"
-    linkedin: "https://www.linkedin.com/in/aman-mishra-a0b7881aa"
-    github: "https://github.com/Amshra267"
-    role: mentors
-    image: /img/people/aman.jpg
-    bio: Deep learning, Robot Perception and planning
+  display_name: "Aman Mishra"
+  webpage: "https://github.com/Amshra267"
+  linkedin: "https://www.linkedin.com/in/aman-mishra-a0b7881aa"
+  github: "https://github.com/Amshra267"
+  role: mentors
+  image: /img/people/aman.jpg
+  bio: Deep learning, Robot Perception and planning
 
 amarjeetkeshri:
-    display_name: "Amarjeet Keshri"
-    webpage: "https://github.com/amarkeshri28"
-    github: "https://github.com/amarkeshri28"
-    linkedin: "https://www.linkedin.com/in/amarjeet-keshri-3712b01b2"
-    role: ancestor_1_0
-    image: /img/people/amarjeet.jpg
-    bio: Robot control, Robot hardware design and devlopment, Deep learning
+  display_name: "Amarjeet Keshri"
+  webpage: "https://github.com/amarkeshri28"
+  github: "https://github.com/amarkeshri28"
+  linkedin: "https://www.linkedin.com/in/amarjeet-keshri-3712b01b2"
+  role: ancestor_1_0
+  image: /img/people/amarjeet.jpg
+  bio: Robot control, Robot hardware design and devlopment, Deep learning
 
 ananyasingh:
-    display_name: "Ananya Singh"
-    webpage: "https://github.com/ananya130"
-    github: "https://github.com/ananya130"
-    role: ancestor_1_0
-    image: /img/people/ananya.jpg
-    bio: Deep Learning,  Front-end web development, Robot Perception and planning
+  display_name: "Ananya Singh"
+  webpage: "https://github.com/ananya130"
+  github: "https://github.com/ananya130"
+  role: ancestor_1_0
+  image: /img/people/ananya.jpg
+  bio: Deep Learning,  Front-end web development, Robot Perception and planning
 
 antarabanerjee:
-    display_name: "Antara Banerjee"
-    webpage: "https://github.com/AntaraB1005"
-    github: "https://github.com/AntaraB1005"
-    linkedin: "https://www.linkedin.com/in/antara-banerjee-6b79b61aa/"
-    role: mentors
-    image: /img/people/antara.jpg
-    bio: Computer vision, Robotic Vision System
+  display_name: "Antara Banerjee"
+  webpage: "https://github.com/AntaraB1005"
+  github: "https://github.com/AntaraB1005"
+  linkedin: "https://www.linkedin.com/in/antara-banerjee-6b79b61aa/"
+  role: mentors
+  image: /img/people/antara.jpg
+  bio: Computer vision, Robotic Vision System
 
 atulkumar:
-    display_name: "Atul Kumar"
-    webpage: "https://github.com/AtuL-KumaR-00"
-    github: "https://github.com/AtuL-KumaR-00"
-    linkedin: "https://www.linkedin.com/in/atul-kumar-6b22751b4/"
-    role: ancestor_1_1
-    image: /img/people/atul.jpg
-    bio: Deep learning, Robot hardware design
+  display_name: "Atul Kumar"
+  webpage: "https://github.com/AtuL-KumaR-00"
+  github: "https://github.com/AtuL-KumaR-00"
+  linkedin: "https://www.linkedin.com/in/atul-kumar-6b22751b4/"
+  role: ancestor_1_1
+  image: /img/people/atul.jpg
+  bio: Deep learning, Robot hardware design
 
 ayushshaw:
-    display_name: "Ayush Kumar Shaw"
-    webpage: "https://github.com/aksayushx"
-    github: "https://github.com/aksayushx"
-    linkedin: "https://www.linkedin.com/in/ayush-kumar-shaw-5698a719a/"
-    role: mentors
-    image: /img/people/ayush.jpg
-    bio: Computer Vision, Reinforcement Learning, Deep Learning
+  display_name: "Ayush Kumar Shaw"
+  webpage: "https://github.com/aksayushx"
+  github: "https://github.com/aksayushx"
+  linkedin: "https://www.linkedin.com/in/ayush-kumar-shaw-5698a719a/"
+  role: mentors
+  image: /img/people/ayush.jpg
+  bio: Computer Vision, Reinforcement Learning, Deep Learning
 
 jatineaga:
-    display_name: "Jatin Eaga"
-    webpage: "https://github.com/jatin1604"
-    github: "https://github.com/jatin1604"
-    role: ancestor_1_1
-    image: /img/people/jatin.jpg
-    bio: Robots mobility and locomotive design and it's development, deep learning
+  display_name: "Jatin Eaga"
+  webpage: "https://github.com/jatin1604"
+  github: "https://github.com/jatin1604"
+  role: ancestor_1_1
+  image: /img/people/jatin.jpg
+  bio: Robots mobility and locomotive design and it's development, deep learning
 
 kartikgarg:
-    display_name: "Kartik Garg"
-    webpage: "https://github.com/Kartikgar"
-    github: "https://github.com/Kartikgar"
-    linkedin: "https://www.linkedin.com/in/kartik-garg-5371b1192"
-    role: mentors
-    image: /img/people/kartik1.jpg
-    bio: Visual SLAM, Perception and Control
+  display_name: "Kartik Garg"
+  webpage: "https://github.com/Kartikgar"
+  github: "https://github.com/Kartikgar"
+  linkedin: "https://www.linkedin.com/in/kartik-garg-5371b1192"
+  role: mentors
+  image: /img/people/kartik1.jpg
+  bio: Visual SLAM, Perception and Control
 
 kritikabansal:
-    display_name: "Kritika Bansal"
-    webpage: "https://github.com/Kritika-Bansal"
-    github: "https://github.com/Kritika-Bansal"
-    role: ancestor_1_1
-    image: /img/people/kritika.jpg
-    bio: Robot Perception and Planning
+  display_name: "Kritika Bansal"
+  webpage: "https://github.com/Kritika-Bansal"
+  github: "https://github.com/Kritika-Bansal"
+  role: ancestor_1_1
+  image: /img/people/kritika.jpg
+  bio: Robot Perception and Planning
 
 mainaksamanta:
-    display_name: "Mainak Samanta"
-    webpage: "https://github.com/monako2001"
-    github: "https://github.com/monako2001"
-    linkedin: https://www.linkedin.com/in/mainak-samanta-4-year-b-tech-electronics-engineering-56a871194
-    role: mentors
-    image: /img/people/mainak.jpg
-    bio: Robot control, Robot perception and planning, Reinforcement Learning, Robotic Simulation, Computer Vision
+  display_name: "Mainak Samanta"
+  webpage: "https://github.com/monako2001"
+  github: "https://github.com/monako2001"
+  linkedin: https://www.linkedin.com/in/mainak-samanta-4-year-b-tech-electronics-engineering-56a871194
+  role: mentors
+  image: /img/people/mainak.jpg
+  bio: Robot control, Robot perception and planning, Reinforcement Learning, Robotic Simulation, Computer Vision
 
 payalpote:
-    display_name: "Payal Pote"
-    webpage: "https://github.com/payal116"
-    github: "https://github.com/payal116"
-    linkedin: "https://www.linkedin.com/in/payal-pote-94430919a"
-    role: mentors1
-    image: /img/people/payal.jpg
-    bio: Robot perception and planning, Deep Learning
+  display_name: "Payal Pote"
+  webpage: "https://github.com/payal116"
+  github: "https://github.com/payal116"
+  linkedin: "https://www.linkedin.com/in/payal-pote-94430919a"
+  role: mentors1
+  image: /img/people/payal.jpg
+  bio: Robot perception and planning, Deep Learning
 
 princegond:
-    display_name: "Prince Kumar Gond"
-    webpage: "https://github.com/prince-0911"
-    github: "https://github.com/prince-0911"
-    linkedin: "https://www.linkedin.com/in/prince-kumar-gond-3b22b81b2"
-    role: ancestor_1_1
-    image: /img/people/prince.jpg
-    bio: Deep Learning ,Robot Control, Robot hardware design and development.
+  display_name: "Prince Kumar Gond"
+  webpage: "https://github.com/prince-0911"
+  github: "https://github.com/prince-0911"
+  linkedin: "https://www.linkedin.com/in/prince-kumar-gond-3b22b81b2"
+  role: ancestor_1_1
+  image: /img/people/prince.jpg
+  bio: Deep Learning ,Robot Control, Robot hardware design and development.
 
 tharungowda:
-    display_name: "R Tharun Gowda"
-    webpage: "https://github.com/rtharungowda"
-    github: "https://github.com/rtharungowda"
-    linkedin: "https://www.linkedin.com/in/r-tharun-gowda-640635203/"
-    role: mentors1
-    image: /img/people/tharun.jpg
-    bio: Deep Learning (Computer Vision), Reinforcement Learning
+  display_name: "R Tharun Gowda"
+  webpage: "https://github.com/rtharungowda"
+  github: "https://github.com/rtharungowda"
+  linkedin: "https://www.linkedin.com/in/r-tharun-gowda-640635203/"
+  role: mentors1
+  image: /img/people/tharun.jpg
+  bio: Deep Learning (Computer Vision), Reinforcement Learning
 
 raghavsoni:
-    display_name: "Raghav Soni"
-    webpage: "https://github.com/Raghav-Soni"
-    github: "https://github.com/Raghav-Soni"
-    linkedin: "https://www.linkedin.com/mwlite/in/raghav-soni-0932b71b7"
-    role: technicalLead
-    image: /img/people/raghav.jpg
-    bio: Robot perception, design and development, Reinforcement Learning, Microcontrollers and Electronics
+  display_name: "Raghav Soni"
+  webpage: "https://github.com/Raghav-Soni"
+  github: "https://github.com/Raghav-Soni"
+  linkedin: "https://www.linkedin.com/mwlite/in/raghav-soni-0932b71b7"
+  role: technicalLead
+  image: /img/people/raghav.jpg
+  bio: Robot perception, design and development, Reinforcement Learning, Microcontrollers and Electronics
 
 somnathsendhil:
-    display_name: "Somnath Sendhil Kumar"
-    webpage: "https://github.com/hex-plex"
-    github: "https://github.com/hex-plex"
-    linkedin: "https://www.linkedin.com/in/somnathsenku/"
-    role: technicalLead1
-    image: /img/people/somnath.jpg
-    bio: Reinforcement Learning, Digital Electronics, Computer Vision
+  display_name: "Somnath Sendhil Kumar"
+  webpage: "https://github.com/hex-plex"
+  github: "https://github.com/hex-plex"
+  linkedin: "https://www.linkedin.com/in/somnathsenku/"
+  role: technicalLead1
+  image: /img/people/somnath.jpg
+  bio: Reinforcement Learning, Digital Electronics, Computer Vision
 
 surabhitgupta:
-    display_name: "Surabhit Gupta"
-    webpage: "https://github.com/surabhit-08"
-    github: "https://github.com/surabhit-08"
-    linkedin: "https://www.linkedin.com/in/surabhit16/"
-    role: technicalLead
-    image: /img/people/surabhit.jpg
-    bio: Hardware Development and control. 
+  display_name: "Surabhit Gupta"
+  webpage: "https://github.com/surabhit-08"
+  github: "https://github.com/surabhit-08"
+  linkedin: "https://www.linkedin.com/in/surabhit16/"
+  role: technicalLead
+  image: /img/people/surabhit.jpg
+  bio: Hardware Development and control.
 
 vikhyathvenkatraman:
-    display_name: "Vikhyath Venkatraman"
-    webpage: "https://github.com/Vikhyath08"
-    github: "https://github.com/Vikhyath08"
-    linkedin: "https://www.linkedin.com/in/vikhyath-venkatraman-451093204/"
-    role: technicalLead1
-    image: /img/people/vikhyath.jpg
-    bio: Computer Vision, Deep Learning and Reinforcement Learning
-     
+  display_name: "Vikhyath Venkatraman"
+  webpage: "https://github.com/Vikhyath08"
+  github: "https://github.com/Vikhyath08"
+  linkedin: "https://www.linkedin.com/in/vikhyath-venkatraman-451093204/"
+  role: technicalLead1
+  image: /img/people/vikhyath.jpg
+  bio: Computer Vision, Deep Learning and Reinforcement Learning
+
 vishwaschepuri:
-    display_name: "Vishwas Chepuri"
-    webpage: "https://github.com/vstark21"
-    github: "https://github.com/vstark21"
-    linkedin: "https://www.linkedin.com/in/vishwas-chepuri/"
-    role: mentors1
-    image: /img/people/vishwas.jpg
-    bio: Deep Learning, Reinforcement Learning, Computer Vision
+  display_name: "Vishwas Chepuri"
+  webpage: "https://github.com/vstark21"
+  github: "https://github.com/vstark21"
+  linkedin: "https://www.linkedin.com/in/vishwas-chepuri/"
+  role: mentors1
+  image: /img/people/vishwas.jpg
+  bio: Deep Learning, Reinforcement Learning, Computer Vision
 
 yashsahij:
-    display_name: "Yash Sahijwani"
-    webpage: "https://terabyte17.github.io/"
-    github: "https://github.com/Terabyte17"
-    linkedin: "https://www.linkedin.com/in/yash-sahijwani/"
-    role: mentors1
-    image: /img/people/yash.jpg
-    bio: Vision-based robotics, Deep Learning and Reinforcement Learning
+  display_name: "Yash Sahijwani"
+  webpage: "https://terabyte17.github.io/"
+  github: "https://github.com/Terabyte17"
+  linkedin: "https://www.linkedin.com/in/yash-sahijwani/"
+  role: mentors1
+  image: /img/people/yash.jpg
+  bio: Vision-based robotics, Deep Learning and Reinforcement Learning
 
 yatharthbhargava:
-    display_name: "Yatharth Bhargava"
-    webpage: "https://github.com/Bellicose-YB"
-    github: "https://github.com/Bellicose-YB"
-    linkedin: "https://www.linkedin.com/in/yatharth-bhargava-577a41202/"
-    role: ancestor_1_1
-    image: /img/people/yatharth.jpg
-    bio: Deep Learning, Robot control, Robot perception and planning
+  display_name: "Yatharth Bhargava"
+  webpage: "https://github.com/Bellicose-YB"
+  github: "https://github.com/Bellicose-YB"
+  linkedin: "https://www.linkedin.com/in/yatharth-bhargava-577a41202/"
+  role: ancestor_1_1
+  image: /img/people/yatharth.jpg
+  bio: Deep Learning, Robot control, Robot perception and planning
 
 niranthsai:
-    display_name: "S Niranth Sai"
-    webpage: "https://github.com/NiranthS"
-    github: "https://github.com/NiranthS"
-    linkedin: "https://www.linkedin.com/in/niranth-sai-35386b179/"
-    role: ancestors_0_1
-    image: /img/people/niranth.jpg
-    bio: Robot perception, HRI, Deep Learning and Reinforcement Learning
+  display_name: "S Niranth Sai"
+  webpage: "https://github.com/NiranthS"
+  github: "https://github.com/NiranthS"
+  linkedin: "https://www.linkedin.com/in/niranth-sai-35386b179/"
+  role: ancestors_0_1
+  image: /img/people/niranth.jpg
+  bio: Robot perception, HRI, Deep Learning and Reinforcement Learning
 
 lokeshkrishna:
-    display_name: "Lokesh Krishna"
-    webpage: "https://lok-i.github.io/website/"
-    github: "https://github.com/lok-i"
-    linkedin: "https://www.linkedin.com/in/lokesh-krishna-92911719b/"
-    role: ancestors_0
-    image: /img/people/lokesh.jpg
-    bio: Optimal Control, Robot Learning, Legged Robotic Systems
+  display_name: "Lokesh Krishna"
+  webpage: "https://lok-i.github.io/website/"
+  github: "https://github.com/lok-i"
+  linkedin: "https://www.linkedin.com/in/lokesh-krishna-92911719b/"
+  role: ancestors_0
+  image: /img/people/lokesh.jpg
+  bio: Optimal Control, Robot Learning, Legged Robotic Systems
+
+arjunkrishna:
+  display_name: "B Arjun Krishna"
+  role: new_joinee
+
+sagarsrivastava:
+  display_name: "Sagar Srivastava"
+  role: new_joinee
+
+svineesha:
+  display_name: "S Vineesha"
+  role: new_joinee
+
+navalselvan:
+  display_name: "Naval Selvan"
+  role: new_joinee
+
+vivekagarwal:
+  display_name: "Vivek Agarwal"
+  role: new_joinee
+
+tusharsarkar:
+  display_name: "Tushar Sarkar"
+  role: new_joinee
+
+amiteshvasta:
+  display_name: "Amitesh Vasta"
+  role: new_joinee
+
+SinghNitishkumarRameshchandra:
+  display_name: "Singh Nitishkumar Rameshchandra"
+  role: new_joinee
+  
+AyushJha:
+  display_name: "Ayush Jha"
+  role: new_joinee
+
+SomyaBansal:
+  display_name: "Somya Bansal"
+  role: new_joinee
+
+Varadvinayakpandey:
+  display_name: "Varad Vinayak Pandey"
+  role: new_joinee
+
+amiteshvasta:
+  display_name: "Amitesh Vasta"
+  role: new_joinee
+
+SwetaSneh:
+  display_name: "Sweta Sneh"
+  role: new_joinee
+  
+AstitvaGupta:
+  display_name: "Astitva Gupta"
+  role: new_joinee1
+
+HarshMahesheka:
+  display_name: "Harsh Mahesheka"
+  role: new_joinee1
+
+Viditagarwal:
+  display_name: "ViditAgarwal"
+  role: new_joinee1
+
+ShaliniShag:
+  display_name: "Shalini Shag"
+  role: new_joinee1
+
+GujullaLeelSriniRohan:
+  display_name: "Gujulla Leel Srini Rohan"
+  role: new_joinee1
+  
+SanidhyaTarparia:
+  display_name: "Sanidhya Tarparia"
+  role: new_joinee1
+
+ChahakJethani:
+  display_name: "Chahak Jethani"
+  role: new_joinee1
+
+PratyushSingh:
+  display_name: "Pratyush Singh"
+  role: new_joinee1
+
+PratikMishra:
+  display_name: "Pratik Mishra"
+  role: new_joinee1
+  
+ayushishan:
+  display_name: "Ayush Ishan"
+  role: new_joinee1
+
+dhruvagarwal:
+  display_name: "Dhruv Agarwal"
+  role: new_joinee1
+
+AryamanGupta:
+  display_name: "Aryaman Gupta"
+  role: new_joinee1
+
+
+
 
 # grad-a:
 #     display_name: "Grad A"

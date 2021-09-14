@@ -13,6 +13,10 @@ no-picture-role-groups:
 - {roles: [mentors1], width: 6}
 - {roles: [ancestor_1_0], width: 6}
 - {roles: [ancestor_1_1], width: 6}
+
+no-picture-role-groups-new:
+- {roles: [new_joinee], width: 6}
+- {roles: [new_joinee1], width: 6}
 ---
 
 <h3 align="left"><b>Iteration 0:</b> Founders</h3>
@@ -47,5 +51,13 @@ no-picture-role-groups:
 <p>
     <br>
     </p>
-<h4 align="center">to be added soon ...</h4>
+    <section class="people row justify-content-between">
+        {% for role-group in page.no-picture-role-groups-new %}
+            <div class="col-md-{{ role-group.width }}">
+                {% for role in role-group.roles %}
+                    {% include role-ancestory.html role=role image=true %}
+                {% endfor %}
+            </div>
+        {% endfor %}
+    </section>
 </section>
