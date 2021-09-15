@@ -5,88 +5,146 @@ notitle: true
 
 # groups of columns of {roles: list, width: num, image: bool}
 role-tables:
-- - roles: [members, technicalLead, mentors1]
-    width: 8
-    image: true
-  - roles: [members1, technicalLead1, mentors2]
-    width: 8
-    image: true
-- - roles: [members2, ugrad-alum]
-    width: 8
-    image: true
-  - roles: [alum]
-    width: 7
-    image: false
-
+  - - roles: [members, technicalLead, mentors1]
+      width: 8
+      image: true
+    - roles: [members1, technicalLead1, mentors2]
+      width: 8
+      image: true
+  - - roles: [members2, ugrad-alum]
+      width: 8
+      image: true
+    - roles: [alum]
+      width: 7
+      image: false
+    - roles: [new_joinee, new_joinee1]
+      width: 7
+      image: false
 ---
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<link
+  rel="stylesheet"
+  href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
+/>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
 <div class="container">
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
-      <!-- Indicators -->
-      <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
-        <li data-target="#myCarousel" data-slide-to="3"></li>
-        <li data-target="#myCarousel" data-slide-to="4"></li>
-        <li data-target="#myCarousel" data-slide-to="5"></li>
-        <li data-target="#myCarousel" data-slide-to="6"></li>
-      </ol>
-  
-      <!-- Wrapper for slides -->
-      <div class="carousel-inner">
-        <div class="item active" align="center">
-          <img src="{{ site.base }}/img/Jerbotall3.gif" alt="Jerbot" style="height:56vh">
-  <!--          <video width="1126" height="440"  autoplay preload="">-->
-  <!--  <source src="video/Stoch_Intro1.mp4" type="video/mp4">-->
-  <!--  Your browser does not support the video tag.-->
-  <!--</video>-->
-        </div>
-        <div class="item" align="center">
-          <img src="{{ site.base }}/img/talks/ShreyanshTalk.png" alt="parking" style="height:56vh">
-        </div>
-        <div class="item" align="center">
-          <img src="{{ site.base }}/img/auto-park/full-parking.png" alt="parking" style="height:56vh">
-        </div>
-        <div class="item" align="center">
-          <img src="{{ site.base }}/img/auto-waste/design-vision-model.jpg" alt="auto-waste" style="height:56vh">
-        </div>
-        <div class="item" align="center">
-          <img src="{{ site.base }}/img/chase-and-run/cars.gif" alt="chase-run" style="height:56vh">
-        </div>
-        <div class="item" align="center">
-          <img src="{{ site.base }}/img/mask-on/mask-tracking.gif" alt="maskon" style="height:56vh">
-        </div>
-        <div class="item" align="center">
-          <img src="{{ site.base }}/img/swarm-robo/Trial_run.gif" alt="swarm-robo" style="height:56vh">
-        </div>
-        <div class="item" align="center">
-          <img src="{{ site.base }}/img/simult-multi-agent/baxter.gif" alt="multi-task" style="height:56vh" >
-        </div>
-        <div class="item" align="center">
-          <img src="{{ site.base }}/img/swarm-robo/iota_broll.gif" alt="swarm-robo" style="height:56vh">
-        </div>
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+      <li data-target="#myCarousel" data-slide-to="3"></li>
+      <li data-target="#myCarousel" data-slide-to="4"></li>
+      <li data-target="#myCarousel" data-slide-to="5"></li>
+      <li data-target="#myCarousel" data-slide-to="6"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div class="item active" align="center">
+        <img
+          src="{{ site.base }}/img/Jerbotall3.gif"
+          alt="Jerbot"
+          style="height: 56vh"
+        />
+        <!--          <video width="1126" height="440"  autoplay preload="">-->
+        <!--  <source src="video/Stoch_Intro1.mp4" type="video/mp4">-->
+        <!--  Your browser does not support the video tag.-->
+        <!--</video>-->
       </div>
-  
-      <!-- Left and right controls -->
-      <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="right carousel-control" href="#myCarousel" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right"></span>
-        <span class="sr-only">Next</span>
-      </a>
+      <div class="item" align="center">
+        <img
+          src="{{ site.base }}/img/talks/ShreyanshTalk.png"
+          alt="parking"
+          style="height: 56vh"
+        />
+      </div>
+      <div class="item" align="center">
+        <img
+          src="{{ site.base }}/img/auto-park/full-parking.png"
+          alt="parking"
+          style="height: 56vh"
+        />
+      </div>
+      <div class="item" align="center">
+        <img
+          src="{{ site.base }}/img/auto-waste/design-vision-model.jpg"
+          alt="auto-waste"
+          style="height: 56vh"
+        />
+      </div>
+      <div class="item" align="center">
+        <img
+          src="{{ site.base }}/img/chase-and-run/cars.gif"
+          alt="chase-run"
+          style="height: 56vh"
+        />
+      </div>
+      <div class="item" align="center">
+        <img
+          src="{{ site.base }}/img/mask-on/mask-tracking.gif"
+          alt="maskon"
+          style="height: 56vh"
+        />
+      </div>
+      <div class="item" align="center">
+        <img
+          src="{{ site.base }}/img/swarm-robo/Trial_run.gif"
+          alt="swarm-robo"
+          style="height: 56vh"
+        />
+      </div>
+      <div class="item" align="center">
+        <img
+          src="{{ site.base }}/img/simult-multi-agent/baxter.gif"
+          alt="multi-task"
+          style="height: 56vh"
+        />
+      </div>
+      <div class="item" align="center">
+        <img
+          src="{{ site.base }}/img/swarm-robo/iota_broll.gif"
+          alt="swarm-robo"
+          style="height: 56vh"
+        />
+      </div>
     </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a>
   </div>
+</div>
 
-
-  <div class="lab-bio"><p style="margin-top: 30px; font-size:17px"> 
-  We are the group of robotics enthusiasts that actively investigate the different domains of robotics. Our main focus is to carry out projects that are previously unthought, undone and untested through our novel approaches and rigorous experimentations. We are currently working in the domain of learning-based techniques in <span style="font-weight: bold;">robot planning, control and decision making </span>in terms of both single-agent and multi-agent settings for robotic systems. Our goal is to extend the state of art and actively contribute to the robotics community through our diverse set of projects. At present we are a part of the <span style="font-weight: bold;">Robotics Club of the Science and Technology Council at IIT(BHU)</span>, and actively seek out for collaborations. Check out our projects and free feel to contact us at <a href="mailto:roboreg.iitbhu@gamail.com">roboreg.iitbhu@gmail.com </a></p></div>
+<div class="lab-bio">
+  <p style="margin-top: 30px; font-size: 17px">
+    We are the group of robotics enthusiasts that actively investigate the
+    different domains of robotics. Our main focus is to carry out projects that
+    are previously unthought, undone and untested through our novel approaches
+    and rigorous experimentations. We are currently working in the domain of
+    learning-based techniques in
+    <span style="font-weight: bold"
+      >robot planning, control and decision making </span
+    >in terms of both single-agent and multi-agent settings for robotic systems.
+    Our goal is to extend the state of art and actively contribute to the
+    robotics community through our diverse set of projects. At present we are a
+    part of the
+    <span style="font-weight: bold"
+      >Robotics Club of the Science and Technology Council at IIT(BHU)</span
+    >, and actively seek out for collaborations. Check out our projects and free
+    feel to contact us at
+    <a href="mailto:roboreg.iitbhu@gamail.com">roboreg.iitbhu@gmail.com </a>
+  </p>
+</div>
 
 <!-- <div class="jumbotron">
     <p>
@@ -94,41 +152,40 @@ role-tables:
     </p>
 </div> -->
 
- <div align="center">
-  <img src="{{site.base}}/img/roboclub.jpg" alt="roboclub" style="width:250px;height:200px">
-  <img src="{{site.base}}/img/sntc.jpg" alt="sntc" style="width:250px;height:200px">
- </div>
-
+<div align="center">
+  <img
+    src="{{site.base}}/img/roboclub.jpg"
+    alt="roboclub"
+    style="width: 250px; height: 200px"
+  />
+  <img
+    src="{{site.base}}/img/sntc.jpg"
+    alt="sntc"
+    style="width: 250px; height: 200px"
+  />
+</div>
 
 <section>
-    <h2>News</h2>
-    <ul class="news list-unstyled">
-        {% for post in site.posts limit: site.front_page_news %}
-            {% include news-item.html item=post %}
-        {% endfor %}
-    </ul>
-    {% assign numposts = site.posts | size %}
-    {% if numposts >= 1 %}
-        <p>
-            <span class="fa fa-fw fa-history"></span>
-            <a href="{{ site.base }}/blog.html">Older posts&hellip;</a>
-        </p>
-    {% endif %}
+  <h2>News</h2>
+  <ul class="news list-unstyled">
+    {% for post in site.posts limit: site.front_page_news %} {% include
+    news-item.html item=post %} {% endfor %}
+  </ul>
+  {% assign numposts = site.posts | size %} {% if numposts >= 1 %}
+  <p>
+    <span class="fa fa-fw fa-history"></span>
+    <a href="{{ site.base }}/blog.html">Older posts&hellip;</a>
+  </p>
+  {% endif %}
 </section>
 
 <section>
-    <h2>Research</h2>
-    <div class="card-columns">
-        {% comment %}
-        Sort the projects by date, putting those without dates last
-        {% endcomment %}
-        {% assign projects_by_date = site.projects | sort: 'last-updated', 'first' %}
-        {% assign projects_by_date = projects_by_date | reverse %}
-        {% for p in projects_by_date %}
-            {% if p.status != "inactive" %}
-                {% include project-card.html project=p %}
-            {% endif %}
-        {% endfor %}
-    </div>
+  <h2>Research</h2>
+  <div class="card-columns">
+    {% comment %} Sort the projects by date, putting those without dates last {%
+    endcomment %} {% assign projects_by_date = site.projects | sort:
+    'last-updated', 'first' %} {% assign projects_by_date = projects_by_date |
+    reverse %} {% for p in projects_by_date %} {% if p.status != "inactive" %}
+    {% include project-card.html project=p %} {% endif %} {% endfor %}
+  </div>
 </section>
-
