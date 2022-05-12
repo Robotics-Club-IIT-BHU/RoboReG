@@ -228,6 +228,205 @@ lokeshkrishna:
   image: /img/people/lokesh.jpg
   bio: Optimal Control, Robot Learning, Legged Robotic Systems
 
+amiteshvatsa:
+  display_name: "Amitesh Vatsa"
+  webpage: "https://github.com/vtsamit"
+  github: "https://github.com/vtsamit"
+  linkedin: "https://www.linkedin.com/in/amitesh-vatsa-6a37521ba"
+  role: new_joinee
+  image: /img/people/Iter2/Amitesh.jpg
+  bio: Deep Learning, Robot Simulation and Controls
+
+aryamangupta:
+  display_name: "Aryaman Gupta"
+  webpage: "https://github.com/phoenixrider12"
+  github: "https://github.com/phoenixrider12"
+  linkedin: "https://www.linkedin.com/in/aryaman1210/"
+  role: new_joinee
+  image: /img/people/Iter2/Aryaman.jpg
+  bio: Robot Perception and Planning, Computer Vision, Reinforcement Learning
+
+astitvagupta:
+  display_name: "Astitva Gupta"
+  webpage: "https://github.com/astitva22"
+  github: "https://github.com/astitva22"
+  linkedin: "https://www.linkedin.com/in/astitva-gupta-26798312b"
+  role: new_joinee
+  image: /img/people/Iter2/Astitva.jpg
+  bio: Control systems and Algorithms, Path Planning
+
+ayushagarwal:
+  display_name: "Ayush Agarwal"
+  webpage: "https://github.com/ayush-agarwal-0502"
+  github: "https://github.com/ayush-agarwal-0502"
+  linkedin: "http://www.linkedin.com/in/ayush-agarwal-261041215"
+  role: new_joinee
+  image: /img/people/Iter2/Ayush.jpeg
+  bio: Controls , Deep Learning , Computer Vision 
+
+ayushishan:
+  display_name: "Ayush Ishan"
+  webpage: "https://github.com/AYUSH-ISHAN"
+  github: "https://github.com/AYUSH-ISHAN"
+  linkedin: "https://www.linkedin.com/mwlite/in/ayush-ishan-358061220"
+  role: new_joinee
+  image: /img/people/Iter2/Ayush.jpg
+  bio: Reinforcement Learning, Computer Vision, Multi agent systems
+
+chahakjethani:
+  display_name: "Chahak Jethani"
+  webpage: "https://github.com/sherlockholmes1603"
+  github: "https://github.com/sherlockholmes1603"
+  linkedin: "http://www.linkedin.com/in/chahak-jethani-2a565820a"
+  role: new_joinee
+  image: /img/people/Iter2/Chahak.jpg
+  bio: ROS,Computer Vision,Reinforcement Learning. 
+
+dhruvagarwal:
+  display_name: "Dhruv Agarwal"
+  webpage: "https://github.com/dhruxy"
+  github: "https://github.com/dhruxy"
+  linkedin: "https://www.linkedin.com/in/dhruxy/"
+  role: new_joinee
+  image: /img/people/Iter2/Dhruv.jpg
+  bio: Perception, Deep Learning, Path Planning
+
+srinirohan:
+  display_name: "G L Srini Rohan"
+  webpage: "https://github.com/Srini-Rohan"
+  github: "https://github.com/Srini-Rohan"
+  linkedin: "https://www.linkedin.com/in/srini-rohan-gujulla-leel-9ab533219"
+  role: new_joinee
+  image: /img/people/Iter2/Srini.jpg
+  bio: Reinforcement Learning, Robot Perception, Computer Vision, Deep Learning
+
+harshmahesheka:
+  display_name: "Harsh Mahesheka"
+  webpage: "https://harshmahesheka.github.io/"
+  github: "https://github.com/harshmahesheka"
+  linkedin: "https://in.linkedin.com/in/harsh-mahesheka-ab0725212"
+  role: new_joinee
+  image: /img/people/Iter2/Harsh.jpg
+  bio: Autonomous Navigation, ROS, Robot Learning
+
+jaynilsheth:
+  display_name: "Jaynil Sheth"
+  webpage: "https://github.com/cryptic-blaze"
+  github: "https://github.com/cryptic-blaze"
+  linkedin: "https://www.linkedin.com/in/jaynil-s-b71419201"
+  role: new_joinee
+  image: /img/people/Iter2/Jaynil.jpg
+  bio: Hardware Design, Controls
+
+navalselvan:
+  display_name: "Naval Selvan. S"
+  webpage: "https://github.com/naval-selvan-1214"
+  github: "https://github.com/naval-selvan-1214"
+  linkedin: "https://linkedin.com/in/naval-selvan-s-28620a201"
+  role: new_joinee
+  image: /img/people/Iter2/Naval.jpg
+  bio: Robotics Control system
+
+pratyushsingh:
+  display_name: "Pratyush Singh"
+  webpage: "https://github.com/Pratyush-IITBHU"
+  github: "https://github.com/Pratyush-IITBHU"
+  linkedin: "https://www.linkedin.com/in/pratyush-singh-a0a61b206"
+  role: new_joinee1
+  image: /img/people/Iter2/Pratyush.jpg
+  bio: Deep Learning, Vision, RL, Controls and Dynamics, ROS, Graphic Design, Web.
+
+vineesha :
+  display_name: "S. Vineesha "
+  webpage: "https://github.com/Vineesha-01"
+  github: "https://github.com/Vineesha-01"
+  linkedin: "https://www.linkedin.com/in/vineesha-s-00294220a"
+  role: new_joinee1
+  image: /img/people/Iter2/Vineesha.jpg
+  bio: Nano-robotics, RL, Controls and Dynamics
+
+sagarsrivastava:
+  display_name: "Sagar Srivastava"
+  webpage: "https://github.com/Frozensun47"
+  github: "https://github.com/Frozensun47"
+  linkedin: "https://www.linkedin.com/in/sagar-srivastava-8baa231bb/"
+  role: new_joinee1
+  image: /img/people/Iter2/Sagar.jpg
+  bio: Hardware Design
+
+sanidhyataparia:
+  display_name: "Sanidhya Taparia"
+  webpage: "https://sanidhya-portfolio.vercel.app"
+  github: "https://github.com/SanidhyaTaparia"
+  linkedin: "https://www.linkedin.com/in/sanidhya-taparia-4a4760207"
+  role: new_joinee1
+  image: /img/people/Iter2/Sanidhya.jpg
+  bio: Reinforcement Learning, Controls, Natural Language Processing
+
+shalinisihag:
+  display_name: "Shalini Sihag"
+  webpage: "https://github.com/shalini171"
+  github: "https://github.com/shalini171"
+  linkedin: "https://www.linkedin.com/in/shalini-sihag-6b23b71bb"
+  role: new_joinee1
+  image: /img/people/Iter2/Shalini.jpg
+  bio: Computer vision, DL, ROS, RL
+
+somyabansal:
+  display_name: "Somya Bansal"
+  webpage: "https://github.com/Somya-Bansal159"
+  github: "https://github.com/Somya-Bansal159"
+  linkedin: "https://www.linkedin.com/in/somya-bansal-73b041205"
+  role: new_joinee1
+  image: /img/people/Iter2/Somya.jpg
+  bio: Controls, ML
+
+tusharsarkar:
+  display_name: "Tushar Sarkar"
+  webpage: "https://github.com/anakin2311"
+  github: "https://github.com/anakin2311"
+  linkedin: "https://www.linkedin.com/in/tushar-sarkar-b344281a2"
+  role: new_joinee1
+  image: /img/people/Iter2/Tushar.jpg
+  bio: Computer Vision, Deep Learning and Robot Perception 
+
+utkrishtsingh:
+  display_name: "Utkrisht Singh"
+  webpage: "https://github.com/jsparrow08"
+  github: "https://github.com/jsparrow08"
+  linkedin: "https://www.linkedin.com/in/utkrisht-singh-04064a201"
+  role: new_joinee1
+  image: /img/people/Iter2/Utkrisht.jpg
+  bio: Controls, Robot navigation and planning
+
+varadpandey:
+  display_name: "Varad Vinayak Pandey"
+  webpage: "https://github.com/GeneralVader"
+  github: "https://github.com/GeneralVader"
+  linkedin: "https://www.linkedin.com/in/varad-vinayak-pandey/"
+  role: new_joinee1
+  image: /img/people/Iter2/Varad.jpg
+  bio: ROS, Hardware Design
+
+viditagarwal:
+  display_name: "Vidit Agarwal"
+  webpage: "https://github.com/Viditagarwal7479"
+  github: "https://github.com/Viditagarwal7479"
+  linkedin: "https://www.linkedin.com/in/vidit-agarwal-734236200/"
+  role: new_joinee1
+  image: /img/people/Iter2/Vidit.jpg
+  bio: Computer Vision, Edge Computing, Parallel Computing
+
+vivekagarwal:
+  display_name: "Vivek Agarwal"
+  webpage: "https://github.com/vivekagarwal2349/"
+  github: "https://github.com/vivekagarwal2349/"
+  linkedin: "https://www.linkedin.com/in/vivek-agarwal-619004200"
+  role: new_joinee1
+  image: /img/people/Iter2/Vivek.jpg
+  bio: Computer Vision and Reinforcement Learning
+
+
 
 # grad-a:
 #     display_name: "Grad A"
