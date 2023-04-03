@@ -22,6 +22,7 @@ Swarm robotics offers the potential to advance personalized precision medicine a
 <p align="center">
 
    <img width="350" height="280" src="https://github.com/Robotics-Club-IIT-BHU/Swarm-BioNanoRobots/raw/main/rsc/abstract.png">
+   
 </p>
 
 Our study attempts to provide a customizable gym environment with collisions and physics that can be used to test and benchmark multi-agent path-planning algorithms for targeting cancer cells.
@@ -35,7 +36,9 @@ The bots are rewarded globally depending on how distant they are from the Tumor 
 <p align="center">
 
    <img width="800" height="530" src="https://github.com/Robotics-Club-IIT-BHU/Swarm-BioNanoRobots/blob/main/rsc/methodology.png">
+
 </p>
+
 The number of Nano-bots, RBC's, Tumor cells, and tumor groups are modifiable
 
 Action Space :- [ Forward_acceleration, Backward_Acceleration, Left_Rotation , Right_Rotation ]
@@ -51,7 +54,9 @@ This environment is not only limited to the research of cancer treatment. Due to
 <p align="center">
 
    <img width="350" height="280" src="https://github.com/Robotics-Club-IIT-BHU/Swarm-BioNanoRobots/blob/main/rsc/conclusion1.png">
+
    <br>
+   
    <img width="350" height="280" src="https://github.com/Robotics-Club-IIT-BHU/Swarm-BioNanoRobots/raw/main/rsc/conclusion2.png">
    
 </p>
