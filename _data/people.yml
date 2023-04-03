@@ -171,8 +171,8 @@ surabhitgupta:
   github: "https://github.com/surabhit-08"
   linkedin: "https://www.linkedin.com/in/surabhit16/"
   role: technicalLead
-  image: /img/people/surabhit.jpg
-  bio: Hardware Development and control.
+  image: /img/people/Surabhit_Gupta.jpg
+  bio: Controls and Hardware
 
 vikhyathvenkatraman:
   display_name: "Vikhyath Venkatraman"
@@ -280,7 +280,7 @@ chahakjethani:
   linkedin: "http://www.linkedin.com/in/chahak-jethani-2a565820a"
   role: new_joinee
   image: /img/people/Iter2/Chahak.jpeg
-  bio: ROS,Computer Vision,Reinforcement Learning.
+  bio: ROS, Computer vision and Machine Learning
 
 dhruvagarwal:
   display_name: "Dhruv Agarwal"
@@ -306,8 +306,8 @@ harshmahesheka:
   github: "https://github.com/harshmahesheka"
   linkedin: "https://in.linkedin.com/in/harsh-mahesheka-ab0725212"
   role: new_joinee
-  image: /img/people/Iter2/Harsh.jpeg
-  bio: Autonomous Navigation, ROS, Robot Learning
+  image: /img/people/Iter2/harsh.jpeg
+  bio: Autonomous Navigation, Robot Learning
 
 jaynilsheth:
   display_name: "Jaynil Sheth"
@@ -326,6 +326,15 @@ navalselvan:
   role: new_joinee
   image: /img/people/Iter2/Naval.jpg
   bio: Robotics Control system
+
+pratikmishra:
+  display_name: "Pratyush Singh"
+  webpage: "https://github.com/DolceParadise/"
+  github: "https://github.com/DolceParadise/"
+  linkedin: "https://www.linkedin.com/in/pratik-mishra-ab78131b9/"
+  role: new_joinee1
+  image: /img/people/Iter2/pratik_mishra.jpg
+  bio: Aerial Robotics
 
 pratyushsingh:
   display_name: "Pratyush Singh"
@@ -351,9 +360,8 @@ sagarsrivastava:
   github: "https://github.com/Frozensun47"
   linkedin: "https://www.linkedin.com/in/sagar-srivastava-8baa231bb/"
   role: new_joinee1
-  image: /img/people/Iter2/Sagar.png
-  bio: Hardware Design
-
+  image: /img/people/Iter2/sagar.jpg
+  bio: Machine Learning, Deep Learning, Image Processing, Hardware and Dynamics.
 sanidhyataparia:
   display_name: "Sanidhya Taparia"
   webpage: "https://sanidhya-portfolio.vercel.app"
@@ -415,18 +423,9 @@ viditagarwal:
   linkedin: "https://www.linkedin.com/in/vidit-agarwal-734236200/"
   role: new_joinee1
   image: /img/people/Iter2/Vidit.jpeg
-  bio: Computer Vision, Edge Computing, Parallel Computing
+  bio: Computer Vision, Parallel Computing
 
 vivekagarwal:
-  display_name: "Vivek Agarwal"
-  webpage: "https://github.com/vivekagarwal2349/"
-  github: "https://github.com/vivekagarwal2349/"
-  linkedin: "https://www.linkedin.com/in/vivek-agarwal-619004200"
-  role: new_joinee1
-  image: /img/people/Iter2/Vivek.jpg
-  bio: Computer Vision and Reinforcement Learning
-
-vivekagarwl:
   display_name: "Vivek Agarwal"
   webpage: "https://github.com/vivekagarwal2349/"
   github: "https://github.com/vivekagarwal2349/"
