@@ -34,7 +34,7 @@ The bots are rewarded globally depending on how distant they are from the Tumor 
 
 <p align="center">
 
-   <img width="350" height="280" src="/img/bionano/methodology.png">
+   <img width="350" height="280" src="{{ site.base }}/img/bionano/methodology.png">
 </p>
 The number of Nano-bots, RBC's, Tumor cells, and tumor groups are modifiable
 
@@ -50,7 +50,7 @@ This environment is not only limited to the research of cancer treatment. Due to
 
 <p align="center">
 
-   <img width="350" height="280" src="/img/bionano/conclusion1.png">
+   <img width="350" height="280" src="{{ site.base }}/img/bionano/conclusion1.png">
    <img width="350" height="280" src="https://github.com/Robotics-Club-IIT-BHU/Swarm-BioNanoRobots/raw/main/rsc/conclusion2.png">
    
 </p>
