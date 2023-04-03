@@ -262,7 +262,7 @@ ayushagarwal:
   linkedin: "http://www.linkedin.com/in/ayush-agarwal-261041215"
   role: new_joinee
   image: /img/people/Iter2/Ayush.jpg
-  bio: Controls , Deep Learning , Computer Vision 
+  bio: Controls , Deep Learning , Computer Vision
 
 ayushishan:
   display_name: "Ayush Ishan"
@@ -280,7 +280,7 @@ chahakjethani:
   linkedin: "http://www.linkedin.com/in/chahak-jethani-2a565820a"
   role: new_joinee
   image: /img/people/Iter2/Chahak.jpeg
-  bio: ROS,Computer Vision,Reinforcement Learning. 
+  bio: ROS,Computer Vision,Reinforcement Learning.
 
 dhruvagarwal:
   display_name: "Dhruv Agarwal"
@@ -336,8 +336,8 @@ pratyushsingh:
   image: /img/people/Iter2/Pratyush.jpeg
   bio: Deep Learning, Vision, RL, Controls and Dynamics, ROS, Graphic Design, Web.
 
-vineesha :
-  display_name: "S. Vineesha "
+vineesha:
+  display_name: "S. Vineesha"
   webpage: "https://github.com/Vineesha-01"
   github: "https://github.com/Vineesha-01"
   linkedin: "https://www.linkedin.com/in/vineesha-s-00294220a"
@@ -388,7 +388,7 @@ tusharsarkar:
   linkedin: "https://www.linkedin.com/in/tushar-sarkar-b344281a2"
   role: new_joinee1
   image: /img/people/Iter2/Tushar.jpg
-  bio: Computer Vision, Deep Learning and Robot Perception 
+  bio: Computer Vision, Deep Learning and Robot Perception
 
 utkrishtsingh:
   display_name: "Utkrisht Singh"
@@ -426,8 +426,14 @@ vivekagarwal:
   image: /img/people/Iter2/Vivek.jpg
   bio: Computer Vision and Reinforcement Learning
 
-
-
+vivekagarwl:
+  display_name: "Vivek Agarwal"
+  webpage: "https://github.com/vivekagarwal2349/"
+  github: "https://github.com/vivekagarwal2349/"
+  linkedin: "https://www.linkedin.com/in/vivek-agarwal-619004200"
+  role: new_joinee1
+  image: /img/people/Iter2/Vivek.jpg
+  bio: Computer Vision and Reinforcement Learning
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad
