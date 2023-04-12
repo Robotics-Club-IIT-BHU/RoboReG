@@ -40,3 +40,16 @@ no-picture-role-groups:
   </div>
   {% endfor %}
 </section>
+
+<h3 align="left"><b>Iteration 2:</b> Team of 2021-22</h3>
+<p>
+  <br />
+</p>
+<section class="people row justify-content-between">
+  {% for role-group in page.no-picture-role-groups %}
+  <div class="col-md-{{ role-group.width }}">
+    {% for role in role-group.roles %} {% include role-ancestory.html role=role
+    image=true %} {% endfor %}
+  </div>
+  {% endfor %}
+</section>
