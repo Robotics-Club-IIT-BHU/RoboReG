@@ -125,7 +125,7 @@ payalpote:
   webpage: "https://github.com/payal116"
   github: "https://github.com/payal116"
   linkedin: "https://www.linkedin.com/in/payal-pote-94430919a"
-  role: mentors1
+  role: abc
   image: /img/people/payal.jpg
   bio: Robot perception and planning, Deep Learning
 
@@ -143,7 +143,7 @@ tharungowda:
   webpage: "https://github.com/rtharungowda"
   github: "https://github.com/rtharungowda"
   linkedin: "https://www.linkedin.com/in/r-tharun-gowda-640635203/"
-  role: mentors1
+  role: abc
   image: /img/people/tharun.jpg
   bio: Deep Learning (Computer Vision), Reinforcement Learning
 
@@ -152,7 +152,7 @@ raghavsoni:
   webpage: "https://github.com/Raghav-Soni"
   github: "https://github.com/Raghav-Soni"
   linkedin: "https://www.linkedin.com/mwlite/in/raghav-soni-0932b71b7"
-  role: technicalLead
+  role: technicalLead1
   image: /img/people/raghav.jpg
   bio: Robot perception, design and development, Reinforcement Learning, Microcontrollers and Electronics
 
@@ -170,7 +170,7 @@ surabhitgupta:
   webpage: "https://github.com/surabhit-08"
   github: "https://github.com/surabhit-08"
   linkedin: "https://www.linkedin.com/in/surabhit16/"
-  role: technicalLead
+  role: technicalLead1
   image: /img/people/Surabhit_Gupta.jpg
   bio: Controls and Hardware
 
@@ -188,7 +188,7 @@ vishwaschepuri:
   webpage: "https://github.com/vstark21"
   github: "https://github.com/vstark21"
   linkedin: "https://www.linkedin.com/in/vishwas-chepuri/"
-  role: mentors1
+  role: abc
   image: /img/people/vishwas.jpg
   bio: Deep Learning, Reinforcement Learning, Computer Vision
 
@@ -197,7 +197,7 @@ yashsahij:
   webpage: "https://terabyte17.github.io/"
   github: "https://github.com/Terabyte17"
   linkedin: "https://www.linkedin.com/in/yash-sahijwani/"
-  role: mentors1
+  role: abc
   image: /img/people/yash.jpg
   bio: Vision-based robotics, Deep Learning and Reinforcement Learning
 
@@ -233,7 +233,7 @@ amiteshvatsa:
   webpage: "https://github.com/vtsamit"
   github: "https://github.com/vtsamit"
   linkedin: "https://www.linkedin.com/in/amitesh-vatsa-6a37521ba"
-  role: new_joinee
+  role: mentors1
   image: /img/people/Iter2/Amitesh.jpg
   bio: Deep Learning, Robot Simulation and Controls
 
@@ -278,7 +278,7 @@ chahakjethani:
   webpage: "https://github.com/sherlockholmes1603"
   github: "https://github.com/sherlockholmes1603"
   linkedin: "http://www.linkedin.com/in/chahak-jethani-2a565820a"
-  role: new_joinee
+  role: mentors1
   image: /img/people/Iter2/Chahak.jpeg
   bio: ROS, Computer vision and Machine Learning
 
@@ -287,7 +287,7 @@ dhruvagarwal:
   webpage: "https://github.com/dhruxy"
   github: "https://github.com/dhruxy"
   linkedin: "https://www.linkedin.com/in/dhruxy/"
-  role: new_joinee
+  role: mentors1
   image: /img/people/Iter2/Dhruv.jpg
   bio: Perception, Deep Learning, Path Planning
 
@@ -296,7 +296,7 @@ srinirohan:
   webpage: "https://github.com/Srini-Rohan"
   github: "https://github.com/Srini-Rohan"
   linkedin: "https://www.linkedin.com/in/srini-rohan-gujulla-leel-9ab533219"
-  role: new_joinee
+  role: mentors1
   image: /img/people/Iter2/Srini.jpg
   bio: Reinforcement Learning, Robot Perception, Computer Vision, Deep Learning
 
@@ -305,7 +305,7 @@ harshmahesheka:
   webpage: "https://harshmahesheka.github.io/"
   github: "https://github.com/harshmahesheka"
   linkedin: "https://in.linkedin.com/in/harsh-mahesheka-ab0725212"
-  role: new_joinee
+  role: mentors1
   image: /img/people/Iter2/Harsh.jpeg
   bio: Autonomous Navigation, Robot Learning
 
@@ -332,7 +332,7 @@ pratikmishra:
   webpage: "https://github.com/DolceParadise/"
   github: "https://github.com/DolceParadise/"
   linkedin: "https://www.linkedin.com/in/pratik-mishra-ab78131b9/"
-  role: new_joinee1
+  role: mentors1
   image: /img/people/Iter2/pratik_mishra.jpg
   bio: Aerial Robotics
 
@@ -350,7 +350,7 @@ vineesha:
   webpage: "https://github.com/Vineesha-01"
   github: "https://github.com/Vineesha-01"
   linkedin: "https://www.linkedin.com/in/vineesha-s-00294220a"
-  role: new_joinee1
+  role: mentors1
   image: /img/people/Iter2/Vineesha.jpeg
   bio: Nano-robotics, RL, Controls and Dynamics
 
@@ -359,7 +359,7 @@ sagarsrivastava:
   webpage: "https://github.com/Frozensun47"
   github: "https://github.com/Frozensun47"
   linkedin: "https://www.linkedin.com/in/sagar-srivastava-8baa231bb/"
-  role: new_joinee1
+  role: mentors1
   image: /img/people/Iter2/sagar.jpg
   bio: Machine Learning, Deep Learning, Image Processing, Hardware and Dynamics.
 sanidhyataparia:
