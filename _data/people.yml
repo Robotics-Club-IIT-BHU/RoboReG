@@ -125,7 +125,7 @@ payalpote:
   webpage: "https://github.com/payal116"
   github: "https://github.com/payal116"
   linkedin: "https://www.linkedin.com/in/payal-pote-94430919a"
-  role: abc
+  role: mentors1
   image: /img/people/payal.jpg
   bio: Robot perception and planning, Deep Learning
 
@@ -143,7 +143,7 @@ tharungowda:
   webpage: "https://github.com/rtharungowda"
   github: "https://github.com/rtharungowda"
   linkedin: "https://www.linkedin.com/in/r-tharun-gowda-640635203/"
-  role: abc
+  role: mentors1
   image: /img/people/tharun.jpg
   bio: Deep Learning (Computer Vision), Reinforcement Learning
 
@@ -188,7 +188,7 @@ vishwaschepuri:
   webpage: "https://github.com/vstark21"
   github: "https://github.com/vstark21"
   linkedin: "https://www.linkedin.com/in/vishwas-chepuri/"
-  role: abc
+  role: mentors1
   image: /img/people/vishwas.jpg
   bio: Deep Learning, Reinforcement Learning, Computer Vision
 
@@ -197,7 +197,7 @@ yashsahij:
   webpage: "https://terabyte17.github.io/"
   github: "https://github.com/Terabyte17"
   linkedin: "https://www.linkedin.com/in/yash-sahijwani/"
-  role: abc
+  role: mentors1
   image: /img/people/yash.jpg
   bio: Vision-based robotics, Deep Learning and Reinforcement Learning
 
