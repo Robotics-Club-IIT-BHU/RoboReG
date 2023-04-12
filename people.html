@@ -27,7 +27,7 @@ no-picture-role-groups-new2:
 <br>
 </p>
 <section class="people row justify-content-between">
-    {% for role-group in page.picture-role-groups-new2 %}
+    {% for role-group in page.picture-role-groups %}
         <div class="col-md-{{ role-group.width }}">
             {% for role in role-group.roles %}
                 {% include role-people.html role=role image=true %}
@@ -41,7 +41,7 @@ no-picture-role-groups-new2:
     <br>
     </p>
 <section class="people row justify-content-between">
-    {% for role-group in page.no-picture-role-groups %}
+    {% for role-group in page.no-picture-role-groups-new2 %}
         <div class="col-md-{{ role-group.width }}">
             {% for role in role-group.roles %}
                 {% include role-people.html role=role image=true %}
