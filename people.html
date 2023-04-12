@@ -9,7 +9,7 @@ picture-role-groups:
 
 no-picture-role-groups:
 - {roles: [mentors], width: 6}
-<!-- - {roles: [mentors1], width: 6} -->
+- {roles: [mentors1], width: 6}
 - {roles: [members2], width: 6}
 - {roles: [members], width: 6}
 
@@ -19,7 +19,7 @@ no-picture-role-groups-new:
 
 no-picture-role-groups-neww:
 - {roles: [mentors1], width: 6}
-<!-- - {roles: [new_joinee1], width: 6} -->
+- {roles: [new_joinee1], width: 6}
 ---
 
 <h2 align="center">Technical Leads</h3>
@@ -41,7 +41,7 @@ no-picture-role-groups-neww:
     <br>
     </p>
 <section class="people row justify-content-between">
-    {% for role-group in page.no-picture-role-groups-neww %}
+    {% for role-group in page.no-picture-role-groups %}
         <div class="col-md-{{ role-group.width }}">
             {% for role in role-group.roles %}
                 {% include role-people.html role=role image=true %}
