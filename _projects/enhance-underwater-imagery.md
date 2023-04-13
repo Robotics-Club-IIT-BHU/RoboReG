@@ -30,11 +30,13 @@ To tackle this Pix2Pix GANs have been used to restore images. It's a Conditional
    <img width="600" height="200" src="\img\enhance-underwater-imagery\results.png">
    
 </p>
+
 <p align="center">
 
    <img width="600" height="200" src="\img\enhance-underwater-imagery\results1.png">
    
 </p>
+
 <p align="center">
 
    <img width="600" height="200" src="\img\enhance-underwater-imagery\results2.png">
