@@ -25,6 +25,7 @@ With SolidWork, we created our own vacuum-cleaning home robot from scratch and t
    <img width="600" height="400" src="/img/household-bot/velocity-flow.png">
    
 </p>
+
 <p align="center">
 
    <img width="600" height="400" src="/img/household-bot/pressure-flow.png">

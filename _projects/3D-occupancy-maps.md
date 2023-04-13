@@ -39,6 +39,7 @@ base_link connects to base_stabilized from the above diagram and Tree is Complet
    <img width="600" height="400" src="/img/3D-occupancy-maps/base-link.png">
    
 </p>
+
 <p align="center">
 
    <img width="800" height="400" src="/img/3D-occupancy-maps/map.png">
